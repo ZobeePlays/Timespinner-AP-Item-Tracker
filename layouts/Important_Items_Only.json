@@ -1,0 +1,66 @@
+{
+  "item_only_grid": 
+  {
+    "type": "container",
+    "content": 
+    [
+      {
+        "type": "itemgrid",
+        "h_alignment": "left",
+        "item_margin": "5,5,5,5",
+        "item_size": "40,40",
+        "rows":
+                            [
+                                "timespinnerwheel",
+                                "timespinnerspindle",
+                                "timespinnergear1",
+                                "timespinnergear2",
+                                "timespinnergear3",
+                                "tablet"
+                            ],
+                            [
+                                "securitykeycarda",
+                                "securitykeycardb",
+                                "securitykeycardc",
+                                "securitykeycardd",
+                                "librarykeycardv",
+                                "elevatorkeycard"
+                            ],
+                            [
+                                "watermask",
+                                "gasmask",
+                                "talariaattachment",
+                                "lightwall",
+                                "succubushairpin",
+                                "celestialsash",
+                            ],
+                            [
+                                "timewornwarpbeacon",
+                                "modernwarpbeacon",
+                                "mysteriouswarpbeacon",
+                                "laseraccesa",
+                                "laseraccesi",
+                                "laseraccesm",
+                            ],
+                            [
+                                "twinpyramidkey",
+                                "merchantcrow",
+                                "kobo",
+                                "djinninferno",
+                                "oculusring",
+                            ],
+                            [
+                                "fireorb",
+                                "infernalflames",
+                                "pyroring",
+                                "plasmaorb",
+                                "plasmageyser",
+                                "royalring"
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

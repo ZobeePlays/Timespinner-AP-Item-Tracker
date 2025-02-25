@@ -1,0 +1,604 @@
+[
+    {
+        "name": "Dark Flames",
+        "type": "toggle",
+        "img": "images/items/darkflames.png",
+        "img_mods": "",
+        "codes": "darkflames"
+    },
+    {
+        "name": "Colossal Blade",
+        "type": "toggle",
+        "img": "images/items/colossalblade.png",
+        "img_mods": "",
+        "codes": "colossalblade"
+    },
+    {
+        "name": "Umbra Orb",
+        "type": "toggle",
+        "img": "images/items/umbraorb.png",
+        "img_mods": "",
+        "codes": "umbraorb"
+    },
+    {
+        "name": "Silence Ring",
+        "type": "toggle",
+        "img": "images/items/silencering.png",
+        "img_mods": "",
+        "codes": "silencering"
+    },
+    {
+        "name": "Twin Pyramid Key",
+        "type": "toggle",
+        "img": "images/items/twinpyramidkey.png",
+        "img_mods": "",
+        "codes": "twinpyramidkey"
+    },
+    {
+        "name": "Bombardment",
+        "type": "toggle",
+        "img": "images/items/bombardment.png",
+        "img_mods": "",
+        "codes": "bombardment"
+    },
+    {
+        "name": "Security Keycard C",
+        "type": "toggle",
+        "img": "images/items/securitykeycardc.png",
+        "img_mods": "",
+        "codes": "securitykeycardc"
+    },
+    {
+        "name": "Frozen Spires",
+        "type": "toggle",
+        "img": "images/items/frozenspires.png",
+        "img_mods": "",
+        "codes": "frozenspires"
+    },
+    {
+        "name": "Pyro Ring",
+        "type": "toggle",
+        "img": "images/items/pyroring.png",
+        "img_mods": "",
+        "codes": "pyroring"
+    },
+    {
+        "name": "Aura Blast",
+        "type": "toggle",
+        "img": "images/items/aurablast.png",
+        "img_mods": "",
+        "codes": "aurablast"
+    },
+    {
+        "name": "Elevator Keycard",
+        "type": "toggle",
+        "img": "images/items/elevatorkeycard.png",
+        "img_mods": "",
+        "codes": "elevatorkeycard"
+    },
+    {
+        "name": "Library Keycard V",
+        "type": "toggle",
+        "img": "images/items/librarykeycardv.png",
+        "img_mods": "",
+        "codes": "librarykeycardv"
+    },
+    {
+        "name": "Tailwind Ring",
+        "type": "toggle",
+        "img": "images/items/tailwindring.png",
+        "img_mods": "",
+        "codes": "tailwindring"
+    },
+    {
+        "name": "Water Mask",
+        "type": "toggle",
+        "img": "images/items/watermask.png",
+        "img_mods": "",
+        "codes": "watermask"
+    },
+    {
+        "name": "Mysterious Warp Beacon",
+        "type": "toggle",
+        "img": "images/items/mysteriouswarpbeacon.png",
+        "img_mods": "",
+        "codes": "mysteriouswarpbeacon"
+    },
+    {
+        "name": "Aura Serpent",
+        "type": "toggle",
+        "img": "images/items/auraserpent.png",
+        "img_mods": "",
+        "codes": "auraserpent"
+    },
+    {
+        "name": "galaxy earrings",
+        "type": "toggle",
+        "img": "images/items/galaxyearrings.png",
+        "img_mods": "",
+        "codes": "galaxyearrings"
+    },
+    {
+        "name": "Iron Orb",
+        "type": "toggle",
+        "img": "images/items/ironorb.png",
+        "img_mods": "",
+        "codes": "ironorb"
+    },
+    {
+        "name": "Greed Brooch",
+        "type": "toggle",
+        "img": "images/items/greedbrooch.png",
+        "img_mods": "",
+        "codes": "greedbrooch"
+    },
+    {
+        "name": "Dusk Ring",
+        "type": "toggle",
+        "img": "images/items/duskring.png",
+        "img_mods": "",
+        "codes": "duskring"
+    },
+    {
+        "name": "Modern Warp Beacon",
+        "type": "toggle",
+        "img": "images/items/modernwarpbeacon.png",
+        "img_mods": "",
+        "codes": "modernwarpbeacon"
+    },
+    {
+        "name": "Security Keycard B",
+        "type": "toggle",
+        "img": "images/items/securitykeycardb.png",
+        "img_mods": "",
+        "codes": "securitykeycardb"
+    },
+    {
+        "name": "Blade Orb",
+        "type": "toggle",
+        "img": "images/items/bladeorb.png",
+        "img_mods": "",
+        "codes": "bladeorb"
+    },
+    {
+        "name": "Shield Ring",
+        "type": "toggle",
+        "img": "images/items/shieldring.png",
+        "img_mods": "",
+        "codes": "shieldring"
+    },
+    {
+        "name": "Colossal Hammer",
+        "type": "toggle",
+        "img": "images/items/colossalhammer.png",
+        "img_mods": "",
+        "codes": "colossalhammer"
+    },
+    {
+        "name": "Royal Ring",
+        "type": "toggle",
+        "img": "images/items/royalring.png",
+        "img_mods": "",
+        "codes": "royalring"
+    },
+    {
+        "name": "Fire Orb",
+        "type": "toggle",
+        "img": "images/items/fireorb.png",
+        "img_mods": "",
+        "codes": "fireorb"
+    },
+    {
+        "name": "Ice Orb",
+        "type": "toggle",
+        "img": "images/items/iceorb.png",
+        "img_mods": "",
+        "codes": "iceorb"
+    },
+    {
+        "name": "Goddess Brooch",
+        "type": "toggle",
+        "img": "images/items/goddessbrooch.png",
+        "img_mods": "",
+        "codes": "goddessbrooch"
+    },
+    {
+        "name": "Blue Orb",
+        "type": "toggle",
+        "img": "images/items/blueorb.png",
+        "img_mods": "",
+        "codes": "blueorb"
+    },
+    {
+        "name": "Security Keycard A",
+        "type": "toggle",
+        "img": "images/items/securitykeycarda.png",
+        "img_mods": "",
+        "codes": "securitykeycarda"
+    },
+    {
+        "name": "Blood Orb",
+        "type": "toggle",
+        "img": "images/items/bloodorb.png",
+        "img_mods": "",
+        "codes": "bloodorb"
+    },
+    {
+        "name": "Jewelry Box",
+        "type": "toggle",
+        "img": "images/items/jewelrybox.png",
+        "img_mods": "",
+        "codes": "jewelrybox"
+    },
+    {
+        "name": "Lightwall",
+        "type": "toggle",
+        "img": "images/items/lightwall.png",
+        "img_mods": "",
+        "codes": "lightwall"
+    },
+    {
+        "name": "Security Keycard D",
+        "type": "toggle",
+        "img": "images/items/securitykeycardd.png",
+        "img_mods": "",
+        "codes": "securitykeycardd"
+    },
+    {
+        "name": "Sanguine Ring",
+        "type": "toggle",
+        "img": "images/items/sanguinering.png",
+        "img_mods": "",
+        "codes": "sanguinering"
+    },
+    {
+        "name": "Infernal Flames",
+        "type": "toggle",
+        "img": "images/items/infernalflames.png",
+        "img_mods": "",
+        "codes": "infernalflames"
+    },
+    {
+        "name": "Talaria Attachment",
+        "type": "toggle",
+        "img": "images/items/talariaattachment.png",
+        "img_mods": "",
+        "codes": "talariaattachment"
+    },
+    {
+        "name": "Wind Orb",
+        "type": "toggle",
+        "img": "images/items/windorb.png",
+        "img_mods": "",
+        "codes": "windorb"
+    },
+    {
+        "name": "foodsynthesizer",
+        "type": "toggle",
+        "img": "images/items/foodsynthesizer.png",
+        "img_mods": "",
+        "codes": "foodsynthesizer"
+    },
+    {
+        "name": "Timespinner Gear 1",
+        "type": "toggle",
+        "img": "images/items/timespinnergear1.png",
+        "img_mods": "",
+        "codes": "timespinnergear1"
+    },
+    {
+        "name": "Eternal Brooch",
+        "type": "toggle",
+        "img": "images/items/eternalbrooch.png",
+        "img_mods": "",
+        "codes": "eternalbrooch"
+    },
+    {
+        "name": "Timespinner Gear 2",
+        "type": "toggle",
+        "img": "images/items/timespinnergear2.png",
+        "img_mods": "",
+        "codes": "timespinnergear2"
+    },
+    {
+        "name": "Plasma Geyser",
+        "type": "toggle",
+        "img": "images/items/plasmageyser.png",
+        "img_mods": "",
+        "codes": "plasmageyser"
+    },
+    {
+        "name": "Chaos Blades",
+        "type": "toggle",
+        "img": "images/items/chaosblades.png",
+        "img_mods": "",
+        "codes": "chaosblades"
+    },
+    {
+        "name": "Oculus Ring",
+        "type": "toggle",
+        "img": "images/items/oculusring.png",
+        "img_mods": "",
+        "codes": "oculusring"
+    },
+    {
+        "name": "Scythe Ring",
+        "type": "toggle",
+        "img": "images/items/scythering.png",
+        "img_mods": "",
+        "codes": "scythering"
+    },
+    {
+        "name": "Timespinner Spindle",
+        "type": "toggle",
+        "img": "images/items/timespinnerspindle.png",
+        "img_mods": "",
+        "codes": "timespinnerspindle"
+    },
+    {
+        "name": "Tablet",
+        "type": "toggle",
+        "img": "images/items/tablet.png",
+        "img_mods": "",
+        "codes": "tablet"
+    },
+    {
+        "name": "Gas Mask",
+        "type": "toggle",
+        "img": "images/items/gasmask.png",
+        "img_mods": "",
+        "codes": "gasmask"
+    },
+    {
+        "name": "Kobo",
+        "type": "toggle",
+        "img": "images/items/kobo.png",
+        "img_mods": "",
+        "codes": "kobo"
+    },
+    {
+        "name": "Economizer Ring",
+        "type": "toggle",
+        "img": "images/items/economizerring.png",
+        "img_mods": "",
+        "codes": "economizerring"
+    },
+    {
+        "name": "Icicle Ring",
+        "type": "toggle",
+        "img": "images/items/iciclering.png",
+        "img_mods": "",
+        "codes": "iciclering"
+    },
+    {
+        "name": "Nether Orb",
+        "type": "toggle",
+        "img": "images/items/netherorb.png",
+        "img_mods": "",
+        "codes": "netherorb"
+    },
+    {
+        "name": "Arm Cannon",
+        "type": "toggle",
+        "img": "images/items/armcannon.png",
+        "img_mods": "",
+        "codes": "armcannon"
+    },
+    {
+        "name": "Sprite",
+        "type": "toggle",
+        "img": "images/items/sprite.png",
+        "img_mods": "",
+        "codes": "sprite"
+    },
+    {
+        "name": "Eye Orb",
+        "type": "toggle",
+        "img": "images/items/eyeorb.png",
+        "img_mods": "",
+        "codes": "eyeorb"
+    },
+    {
+        "name": "Soul Scanner",
+        "type": "toggle",
+        "img": "images/items/soulscanner.png",
+        "img_mods": "",
+        "codes": "soulscanner"
+    },
+    {
+        "name": "Radiant Orb",
+        "type": "toggle",
+        "img": "images/items/radiantorb.png",
+        "img_mods": "",
+        "codes": "radiantorb"
+    },
+    {
+        "name": "Merchant Crow",
+        "type": "toggle",
+        "img": "images/items/merchantcrow.png",
+        "img_mods": "",
+        "codes": "merchantcrow"
+    },
+    {
+        "name": "Hope Ring",
+        "type": "toggle",
+        "img": "images/items/hopering.png",
+        "img_mods": "",
+        "codes": "hopering"
+    },
+    {
+        "name": "Demon",
+        "type": "toggle",
+        "img": "images/items/demon.png",
+        "img_mods": "",
+        "codes": "demon"
+    },
+    {
+        "name": "Empire Orb",
+        "type": "toggle",
+        "img": "images/items/empireorb.png",
+        "img_mods": "",
+        "codes": "empireorb"
+    },
+    {
+        "name": "Star of Lachiem",
+        "type": "toggle",
+        "img": "images/items/staroflachiem.png",
+        "img_mods": "",
+        "codes": "staroflachiem"
+    },
+    {
+        "name": "Wyrm Brooch",
+        "type": "toggle",
+        "img": "images/items/wyrmbrooch.png",
+        "img_mods": "",
+        "codes": "wyrmbrooch"
+    },
+    {
+        "name": "Plasma Orb",
+        "type": "toggle",
+        "img": "images/items/plasmaorb.png",
+        "img_mods": "",
+        "codes": "plasmaorb"
+    },
+    {
+        "name": "Storm Eye",
+        "type": "toggle",
+        "img": "images/items/stormeye.png",
+        "img_mods": "",
+        "codes": "stormeye"
+    },
+    {
+        "name": "Bleak Ring",
+        "type": "toggle",
+        "img": "images/items/bleakring.png",
+        "img_mods": "",
+        "codes": "bleakring"
+    },
+    {
+        "name": "Shadow Seal",
+        "type": "toggle",
+        "img": "images/items/shadowseal.png",
+        "img_mods": "",
+        "codes": "shadowseal"
+    },
+    {
+        "name": "Djinn Inferno",
+        "type": "toggle",
+        "img": "images/items/djinninferno.png",
+        "img_mods": "",
+        "codes": "djinninferno"
+    },
+    {
+        "name": "Sun Ring",
+        "type": "toggle",
+        "img": "images/items/sunring.png",
+        "img_mods": "",
+        "codes": "sunring"
+    },
+    {
+        "name": "Timeworn Warp Beacon",
+        "type": "toggle",
+        "img": "images/items/timewornwarpbeacon.png",
+        "img_mods": "",
+        "codes": "timewornwarpbeacon"
+    },
+    {
+        "name": "Celestial Sash",
+        "type": "toggle",
+        "img": "images/items/celestialsash.png",
+        "img_mods": "",
+        "codes": "celestialsash"
+    },
+    {
+        "name": "Meyef",
+        "type": "toggle",
+        "img": "images/items/meyef.png",
+        "img_mods": "",
+        "codes": "meyef"
+    },
+    {
+        "name": "Gun Orb",
+        "type": "toggle",
+        "img": "images/items/gunorb.png",
+        "img_mods": "",
+        "codes": "gunorb"
+    },
+    {
+        "name": "Crimson Vortex",
+        "type": "toggle",
+        "img": "images/items/crimsonvortex.png",
+        "img_mods": "",
+        "codes": "crimsonvortex"
+    },
+    {
+        "name": "Timespinner Wheel",
+        "type": "toggle",
+        "img": "images/items/timespinnerwheel.png",
+        "img_mods": "",
+        "codes": "timespinnerwheel"
+    },
+    {
+        "name": "Corruption",
+        "type": "toggle",
+        "img": "images/items/corruption.png",
+        "img_mods": "",
+        "codes": "corruption"
+    },
+    {
+        "name": "Shattered Orb",
+        "type": "toggle",
+        "img": "images/items/shatteredorb.png",
+        "img_mods": "",
+        "codes": "shatteredorb"
+    },
+    {
+        "name": "Forbidden Tome",
+        "type": "toggle",
+        "img": "images/items/forbiddentome.png",
+        "img_mods": "",
+        "codes": "forbiddentome"
+    },
+    {
+        "name": "Timespinner Gear 3",
+        "type": "toggle",
+        "img": "images/items/timespinnergear3.png",
+        "img_mods": "",
+        "codes": "timespinnergear3"
+    },
+    {
+        "name": "Succubus Hairpin",
+        "type": "toggle",
+        "img": "images/items/succubushairpin.png",
+        "img_mods": "",
+        "codes": "succubushairpin"
+    },
+    {
+        "name": "Griffin",
+        "type": "toggle",
+        "img": "images/items/griffin.png",
+        "img_mods": "",
+        "codes": "griffin"
+    },
+    {
+        "name": "Laser Access A",
+        "type": "toggle",
+        "img": "images/items/laseraccessa.png",
+        "img_mods": "",
+        "codes": "laseraccesa"
+    },
+    {
+        "name": "Laser Access I",
+        "type": "toggle",
+        "img": "images/items/laseraccessi.png",
+        "img_mods": "",
+        "codes": "laseraccesi"
+    },
+    {
+        "name": "Laser Access M",
+        "type": "toggle",
+        "img": "images/items/laseraccessm.png",
+        "img_mods": "",
+        "codes": "laseraccesm"
+    },
+]

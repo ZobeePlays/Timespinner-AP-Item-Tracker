@@ -1,0 +1,65 @@
+{
+    "tracker_broadcast": {
+        "type": "container",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+        "type": "itemgrid",
+        "h_alignment": "left",
+        "item_margin": "5,5,5,5",
+        "item_size": "40,40",
+        "rows":[
+                            [
+                                "timespinnerwheel",
+                                "timespinnerspindle",
+                                "timespinnergear1",
+                                "timespinnergear2",
+                                "timespinnergear3",
+                                "tablet"
+                            ],
+                            [
+                                "securitykeycarda",
+                                "securitykeycardb",
+                                "securitykeycardc",
+                                "securitykeycardd",
+                                "librarykeycardv",
+                                "elevatorkeycard"
+                            ],
+                            [
+                                "watermask",
+                                "gasmask",
+                                "talariaattachment",
+                                "succubushairpin",
+                                "lightwall",
+                                "celestialsash",
+                            ],
+                            [
+                                "timewornwarpbeacon",
+                                "modernwarpbeacon",
+                                "mysteriouswarpbeacon",
+                                "laseraccesa",
+                                "laseraccesi",
+                                "laseraccesm",
+                            ],
+                            [
+                                "twinpyramidkey",
+                                "meyef",
+                                "merchantcrow",
+                                "kobo",
+                                "djinninferno",
+                                "oculusring",
+                            ],
+                            [
+                                "fireorb",
+                                "infernalflames",
+                                "pyroring",
+                                "plasmaorb",
+                                "plasmageyser",
+                                "royalring"
+                            ]
+                ]
+            }
+        ]
+    }
+}

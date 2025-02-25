@@ -1,0 +1,276 @@
+{
+    "shared_item_grid_horizontal": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "2, 2",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 36,
+                        "item_width": 36,
+                        "rows": [
+                            [
+                                "timespinnerwheel",
+                                "timespinnerspindle",
+                                "timespinnergear1",
+                                "timespinnergear2",
+                                "timespinnergear3",
+                                "tablet"
+                            ],
+                            [
+                                "securitykeycarda",
+                                "securitykeycardb",
+                                "securitykeycardc",
+                                "securitykeycardd",
+                                "librarykeycardv",
+                                "elevatorkeycard"
+                            ],
+                            [
+                                "watermask",
+                                "gasmask",
+                                "talariaattachment",
+                                "succubushairpin",
+                                "lightwall",
+                                "celestialsash",
+                            ],
+                            [
+                                "timewornwarpbeacon",
+                                "modernwarpbeacon",
+                                "mysteriouswarpbeacon",
+                                "laseraccesa",
+                                "laseraccesi",
+                                "laseraccesm",
+                            ],
+                            [
+                                "twinpyramidkey",
+                                "soulscanner",
+                                "eternalbrooch",
+                                "goddessbrooch",
+                                "greedbrooch",
+                                "wyrmbrooch"
+                            ],
+                            [
+                                "meyef",
+                                "griffin",
+                                "merchantcrow",
+                                "kobo",
+                                "sprite",
+                                "demon"
+                            ],
+                            [
+                                "fireorb",
+                                "infernalflames",
+                                "pyroring",
+                                "plasmaorb",
+                                "plasmageyser",
+                                "royalring"
+                            ],
+                            [
+                                "blueorb",
+                                "aurablast",
+                                "bleakring",
+                                "bladeorb",
+                                "colossalblade",
+                                "scythering"
+                            ],
+                            [
+                                "ironorb",
+                                "colossalhammer",
+                                "shieldring",
+                                "iceorb",
+                                "frozenspires",
+                                "iciclering"
+                            ],
+                            [
+                                "windorb",
+                                "stormeye",
+                                "tailwindring",
+                                "gunorb",
+                                "armcannon",
+                                "economizerring"
+                            ],
+                            [
+                                "umbraorb",
+                                "darkflames",
+                                "duskring",
+                                "empireorb",
+                                "auraserpent",
+                                "staroflachiem"
+                            ],
+                            [
+                                "eyeorb",
+                                "chaosblades",
+                                "oculusring",
+                                "bloodorb",
+                                "crimsonvortex",
+                                "sanguinering"
+                            ],
+                            [
+                                "forbiddentome",
+                                "djinninferno",
+                                "sunring",
+                                "shatteredorb",
+                                "bombardment",
+                                "silencering"
+                            ],
+                            [
+                                "netherorb",
+                                "corruption",
+                                "shadowseal",
+                                "radiantorb",
+                                "lightwall",
+                                "hopering"
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "shared_item_grid_vertical": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "vertical",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "2, 2",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 36,
+                        "item_width": 36,
+                        "rows": [
+                            [
+                                "timespinnerwheel",
+                                "timespinnerspindle",
+                                "timespinnergear1",
+                                "timespinnergear2",
+                                "timespinnergear3",
+                                "tablet"
+                            ],
+                            [
+                                "securitykeycarda",
+                                "securitykeycardb",
+                                "securitykeycardc",
+                                "securitykeycardd",
+                                "librarykeycardv",
+                                "elevatorkeycard"
+                            ],
+                            [
+                                "watermask",
+                                "gasmask",
+                                "talariaattachment",
+                                "succubushairpin",
+                                "lightwall",
+                                "celestialsash"
+                            ],
+                            [
+                                "timewornwarpbeacon",
+                                "modernwarpbeacon",
+                                "mysteriouswarpbeacon",
+                                "laseraccesa",
+                                "laseraccesi",
+                                "laseraccesm"
+                            ],
+                            [
+                                "twinpyramidkey",
+                                "soulscanner",
+                                "eternalbrooch",
+                                "goddessbrooch",
+                                "greedbrooch",
+                                "wyrmbrooch"
+                            ],
+                            [
+                                "meyef",
+                                "griffin",
+                                "merchantcrow",
+                                "kobo",
+                                "sprite",
+                                "demon"
+                            ],
+                            [
+                                "fireorb",
+                                "infernalflames",
+                                "pyroring",
+                                "plasmaorb",
+                                "plasmageyser",
+                                "royalring"
+                            ],
+                            [
+                                "blueorb",
+                                "aurablast",
+                                "bleakring",
+                                "bladeorb",
+                                "colossalblade",
+                                "scythering"
+                            ],
+                            [
+                                "ironorb",
+                                "colossalhammer",
+                                "shieldring",
+                                "iceorb",
+                                "frozenspires",
+                                "iciclering"
+                            ],
+                            [
+                                "windorb",
+                                "stormeye",
+                                "tailwindring",
+                                "gunorb",
+                                "armcannon",
+                                "economizerring"
+                            ],
+                            [
+                                "umbraorb",
+                                "darkflames",
+                                "duskring",
+                                "empireorb",
+                                "auraserpent",
+                                "staroflachiem"
+                            ],
+                            [
+                                "eyeorb",
+                                "chaosblades",
+                                "oculusring",
+                                "bloodorb",
+                                "crimsonvortex",
+                                "sanguinering"
+                            ],
+                            [
+                                "forbiddentome",
+                                "djinninferno",
+                                "sunring",
+                                "shatteredorb",
+                                "bombardment",
+                                "silencering"
+                            ],
+                            [
+                                "netherorb",
+                                "corruption",
+                                "shadowseal",
+                                "radiantorb",
+                                "lightwall",
+                                "hopering"
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

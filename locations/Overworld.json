@@ -1,0 +1,2784 @@
+[
+    {
+        "name": "Overworld Hints",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "children": [
+            {
+                "name": "Ancient Pyramid - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": "Ancient Pyramid - Why not it's right there - hint",
+                        "ref": "Ancient Pyramid - hint/Why not it's right there - hint"
+                    },
+                    {
+                        "name": "Ancient Pyramid - Conviction guarded room - hint",
+                        "ref": "Ancient Pyramid - hint/Conviction guarded room - hint"
+                    },
+                    {
+                        "name": "Ancient Pyramid - Pit secret room - hint",
+                        "ref": "Ancient Pyramid - hint/Pit secret room - hint"
+                    },
+                    {
+                        "name": "Ancient Pyramid - Regret chest - hint",
+                        "ref": "Ancient Pyramid - hint/Regret chest - hint"
+                    },
+                    {
+                        "name": "Ancient Pyramid - Nightmare Door chest - hint",
+                        "ref": "Ancient Pyramid - hint/Nightmare Door chest - hint"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "1008",
+                        "y": "426",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "Castle Basement - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": "Journal - Castle Loop Giantess (Political Advice) - hint",
+                        "ref": "Castle Basement - hint/Journal - hint/Castle Loop Giantess (Political Advice) - hint"
+                    },
+                    {
+                        "name": "Castle Basement - Secret pedestal - hint",
+                        "ref": "Castle Basement - hint/Secret pedestal - hint"
+                    },
+                    {
+                        "name": "Castle Basement - Clean the castle basement - hint",
+                        "ref": "Castle Basement - hint/Clean the castle basement - hint"
+                    },
+                    {
+                        "name": "Castle Basement - Giantess guarded chest - hint",
+                        "ref": "Castle Basement - hint/Giantess guarded chest - hint"
+                    },
+                    {
+                        "name": "Castle Basement - Omelette chest - hint",
+                        "ref": "Castle Basement - hint/Omelette chest - hint"
+                    },
+                    {
+                        "name": "Castle Basement - Just an egg - hint",
+                        "ref": "Castle Basement - hint/Just an egg - hint"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "895",
+                        "y": "357",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "Castle Keep - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": "Journal - Under the Twins (Letter of Reference) - hint",
+                        "ref": "Castle Keep - hint/Journal - hint/Under the Twins (Letter of Reference) - hint"
+                    },
+                    {
+                        "name": "Castle Keep - Yas queen room - hint",
+                        "ref": "Castle Keep - hint/Yas queen room - hint"
+                    },
+                    {
+                        "name": "Castle Keep - Under the twins - hint",
+                        "ref": "Castle Keep - hint/Under the twins - hint"
+                    },
+                    {
+                        "name": "Castle Keep - Advisor jump - hint",
+                        "ref": "Castle Keep - hint/Advisor jump - hint"
+                    },
+                    {
+                        "name": "Castle Keep - Twins - hint",
+                        "ref": "Castle Keep - hint/Twins - hint"
+                    },
+                    {
+                        "name": "Castle Keep - Royal guard tiny room - hint",
+                        "ref": "Castle Keep - hint/Royal guard tiny room - hint"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "716",
+                        "y": "679",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "Castle Ramparts - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": "Journal - Archer + Knight (Declaration of Independence) - hint",
+                        "ref": "Castle Ramparts - hint/Journal - hint/Archer + Knight (Declaration of Independence) - hint"
+                    },
+                    {
+                        "name": "Castle Ramparts - In the moat - hint",
+                        "ref": "Castle Ramparts - hint/In the moat - hint"
+                    },
+                    {
+                        "name": "Castle Ramparts - Bomber chest - hint",
+                        "ref": "Castle Ramparts - hint/Bomber chest - hint"
+                    },
+                    {
+                        "name": "Castle Ramparts - Freeze the engineer - hint",
+                        "ref": "Castle Ramparts - hint/Freeze the engineer - hint"
+                    },
+                    {
+                        "name": "Castle Ramparts - Giantess guarded room - hint",
+                        "ref": "Castle Ramparts - hint/Giantess guarded room - hint"
+                    },
+                    {
+                        "name": "Castle Ramparts - Knight and archer guarded room - hint",
+                        "ref": "Castle Ramparts - hint/Knight and archer guarded room - hint"
+                    },
+                    {
+                        "name": "Castle Ramparts - Pedestal - hint",
+                        "ref": "Castle Ramparts - hint/Pedestal - hint"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "2068",
+                        "y": "1269",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "Caves of Banishment (Maw) - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": "Journal - Lower Left Caves (Naivety) - hint",
+                        "ref": "Caves of Banishment (Maw) - hint/Journal - hint/Lower Left Caves (Naivety) - hint"
+                    },
+                    {
+                        "name": "Caves of Banishment (Maw) - Shroom jump room - hint",
+                        "ref": "Caves of Banishment (Maw) - hint/Shroom jump room - hint"
+                    },
+                    {
+                        "name": "Caves of Banishment (Maw) - Secret room - hint",
+                        "ref": "Caves of Banishment (Maw) - hint/Secret room - hint"
+                    },
+                    {
+                        "name": "Caves of Banishment (Maw) - Bottom left room - hint",
+                        "ref": "Caves of Banishment (Maw) - hint/Bottom left room - hint"
+                    },
+                    {
+                        "name": "Caves of Banishment (Maw) - Single shroom room - hint",
+                        "ref": "Caves of Banishment (Maw) - hint/Single shroom room - hint"
+                    },
+                    {
+                        "name": "Caves of Banishment (Maw) - Jackpot room chest 1 - hint",
+                        "ref": "Caves of Banishment (Maw) - hint/Jackpot room chest 1 - hint"
+                    },
+                    {
+                        "name": "Caves of Banishment (Maw) - Jackpot room chest 2 - hint",
+                        "ref": "Caves of Banishment (Maw) - hint/Jackpot room chest 2 - hint"
+                    },
+                    {
+                        "name": "Caves of Banishment (Maw) - Jackpot room chest 3 - hint",
+                        "ref": "Caves of Banishment (Maw) - hint/Jackpot room chest 3 - hint"
+                    },
+                    {
+                        "name": "Caves of Banishment (Maw) - Jackpot room chest 4 - hint",
+                        "ref": "Caves of Banishment (Maw) - hint/Jackpot room chest 4 - hint"
+                    },
+                    {
+                        "name": "Caves of Banishment (Maw) - Pedestal - hint",
+                        "ref": "Caves of Banishment (Maw) - hint/Pedestal - hint"
+                    },
+                    {
+                        "name": "Caves of Banishment (Maw) - Last chance before Maw - hint",
+                        "ref": "Caves of Banishment (Maw) - hint/Last chance before Maw - hint"
+                    },
+                    {
+                        "name": "Caves of Banishment (Maw) - Plasma Crystal - hint",
+                        "ref": "Caves of Banishment (Maw) - hint/Plasma Crystal - hint"
+                    },
+                    {
+                        "name": "Caves of Banishment (Maw) - Mineshaft - hint",
+                        "ref": "Caves of Banishment (Maw) - hint/Mineshaft - hint"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "986",
+                        "y": "797",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "Caves of Banishment (Sirens) - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": "Caves of Banishment (Sirens) - Wyvern room - hint",
+                        "ref": "Caves of Banishment (Sirens) - hint/Wyvern room - hint"
+                    },
+                    {
+                        "name": "Caves of Banishment (Sirens) - Siren room above water chest - hint",
+                        "ref": "Caves of Banishment (Sirens) - hint/Siren room above water chest - hint"
+                    },
+                    {
+                        "name": "Caves of Banishment (Sirens) - Siren room underwater left chest - hint",
+                        "ref": "Caves of Banishment (Sirens) - hint/Siren room underwater left chest - hint"
+                    },
+                    {
+                        "name": "Caves of Banishment (Sirens) - Siren room underwater right chest - hint",
+                        "ref": "Caves of Banishment (Sirens) - hint/Siren room underwater right chest - hint"
+                    },
+                    {
+                        "name": "Caves of Banishment (Sirens) - Siren room underwater right ground - hint",
+                        "ref": "Caves of Banishment (Sirens) - hint/Siren room underwater right ground - hint"
+                    },
+                    {
+                        "name": "Caves of Banishment (Sirens) - Water hook - hint",
+                        "ref": "Caves of Banishment (Sirens) - hint/Water hook - hint"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "2465",
+                        "y": "1857",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "Emperor's Tower - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": "Memory - Way Up There (Final Circle) - hint",
+                        "ref": "Emperor's Tower - hint/Memory - hint/Way Up There (Final Circle) - hint"
+                    },
+                    {
+                        "name": "Emperor's Tower - Courtyard bottom chest - hint",
+                        "ref": "Emperor's Tower - hint/Courtyard bottom chest - hint"
+                    },
+                    {
+                        "name": "Emperor's Tower - Courtyard floor secret - hint",
+                        "ref": "Emperor's Tower - hint/Courtyard floor secret - hint"
+                    },
+                    {
+                        "name": "Emperor's Tower - Courtyard upper chest - hint",
+                        "ref": "Emperor's Tower - hint/Courtyard upper chest - hint"
+                    },
+                    {
+                        "name": "Emperor's Tower - Galactic sage room - hint",
+                        "ref": "Emperor's Tower - hint/Galactic sage room - hint"
+                    },
+                    {
+                        "name": "Emperor's Tower - Bottom right tower - hint",
+                        "ref": "Emperor's Tower - hint/Bottom right tower - hint"
+                    },
+                    {
+                        "name": "Emperor's Tower - Wayyyy up there - hint",
+                        "ref": "Emperor's Tower - hint/Wayyyy up there - hint"
+                    },
+                    {
+                        "name": "Emperor's Tower - Left tower balcony - hint",
+                        "ref": "Emperor's Tower - hint/Left tower balcony - hint"
+                    },
+                    {
+                        "name": "Emperor's Tower - Emperor's Chambers chest - hint",
+                        "ref": "Emperor's Tower - hint/Emperor's Chambers chest - hint"
+                    },
+                    {
+                        "name": "Emperor's Tower - Emperor's Chambers pedestal - hint",
+                        "ref": "Emperor's Tower - hint/Emperor's Chambers pedestal - hint"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "1008",
+                        "y": "548",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "Forest - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": "Journal - Rats (Lachiem Expedition) - hint",
+                        "ref": "Forest - hint/Journal - hint/Rats (Lachiem Expedition) - hint"
+                    },
+                    {
+                        "name": "Journal - Bat Jump Ledge (Peace Treaty) - hint",
+                        "ref": "Forest - hint/Journal - hint/Bat Jump Ledge (Peace Treaty) - hint"
+                    },
+                    {
+                        "name": "Journal - Floating in Moat (Prime Edicts) - hint",
+                        "ref": "Forest - hint/Journal - hint/Floating in Moat (Prime Edicts) - hint"
+                    },
+                    {
+                        "name": "Forest - Refugee camp roof - hint",
+                        "ref": "Forest - hint/Refugee camp roof - hint"
+                    },
+                    {
+                        "name": "Forest - Bat jump ledge - hint",
+                        "ref": "Forest - hint/Bat jump ledge - hint"
+                    },
+                    {
+                        "name": "Forest - Green platform secret - hint",
+                        "ref": "Forest - hint/Green platform secret - hint"
+                    },
+                    {
+                        "name": "Forest - Rats guarded chest - hint",
+                        "ref": "Forest - hint/Rats guarded chest - hint"
+                    },
+                    {
+                        "name": "Forest - Waterfall chest 1 - hint",
+                        "ref": "Forest - hint/Waterfall chest 1 - hint"
+                    },
+                    {
+                        "name": "Forest - Waterfall chest 2 - hint",
+                        "ref": "Forest - hint/Waterfall chest 2 - hint"
+                    },
+                    {
+                        "name": "Forest - Batcave - hint",
+                        "ref": "Forest - hint/Batcave - hint"
+                    },
+                    {
+                        "name": "Forest - Before Serene single bat cave - hint",
+                        "ref": "Forest - hint/Before Serene single bat cave - hint"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "1967",
+                        "y": "1616",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "Ifrit - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": "Ifrit - Post fight (pedestal) - hint",
+                        "ref": "Ifrit - hint/Post fight (pedestal) - hint"
+                    },
+                    {
+                        "name": "Ifrit - Pre fight - hint",
+                        "ref": "Ifrit - hint/Pre fight - hint"
+                    },
+                    {
+                        "name": "Ifrit - Post fight (chest) - hint",
+                        "ref": "Ifrit - hint/Post fight (chest) - hint"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "318",
+                        "y": "1539",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "Lab - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": "Memory - Genza's Secret Stash 1 (An Old Friend) - hint",
+                        "ref": "Lab - hint/Memory - hint/Genza's Secret Stash 1 (An Old Friend) - hint"
+                    },
+                    {
+                        "name": "Memory - Genza's Secret Stash 2 (Twilight Dinner) - hint",
+                        "ref": "Lab - hint/Memory - hint/Genza's Secret Stash 2 (Twilight Dinner) - hint"
+                    },
+                    {
+                        "name": "Lab - Coffee break - hint",
+                        "ref": "Lab - hint/Coffee break - hint"
+                    },
+                    {
+                        "name": "Lab - Lower trash right - hint",
+                        "ref": "Lab - hint/Lower trash right - hint"
+                    },
+                    {
+                        "name": "Lab - Lower trash left - hint",
+                        "ref": "Lab - hint/Lower trash left - hint"
+                    },
+                    {
+                        "name": "Lab - Below lab entrance - hint",
+                        "ref": "Lab - hint/Below lab entrance - hint"
+                    },
+                    {
+                        "name": "Lab - Trash jump room - hint",
+                        "ref": "Lab - hint/Trash jump room - hint"
+                    },
+                    {
+                        "name": "Lab - Dynamo Works - hint",
+                        "ref": "Lab - hint/Dynamo Works - hint"
+                    },
+                    {
+                        "name": "Lab - Genza (Blob Mom) - hint",
+                        "ref": "Lab - hint/Genza (Blob Mom) - hint"
+                    },
+                    {
+                        "name": "Lab - Experiment #13 - hint",
+                        "ref": "Lab - hint/Experiment #13 - hint"
+                    },
+                    {
+                        "name": "Lab - Download and chest room chest - hint",
+                        "ref": "Lab - hint/Download and chest room chest - hint"
+                    },
+                    {
+                        "name": "Lab - Lab secret - hint",
+                        "ref": "Lab - hint/Lab secret - hint"
+                    },
+                    {
+                        "name": "Lab - Spider Hell - hint",
+                        "ref": "Lab - hint/Spider Hell - hint"
+                    },
+                    {
+                        "name": "Lab - Download and chest room terminal (Experiment #13) - hint",
+                        "ref": "Lab - hint/Download and chest room terminal (Experiment #13) - hint"
+                    },
+                    {
+                        "name": "Lab - Middle terminal (Amadeus Laboratory Map) - hint",
+                        "ref": "Lab - hint/Middle terminal (Amadeus Laboratory Map) - hint"
+                    },
+                    {
+                        "name": "Lab - Sentry platform terminal (Origins) - hint",
+                        "ref": "Lab - hint/Sentry platform terminal (Origins) - hint"
+                    },
+                    {
+                        "name": "Lab - Experiment 13 terminal (W.R.E.C Farewell) - hint",
+                        "ref": "Lab - hint/Experiment 13 terminal (W.R.E.C Farewell) - hint"
+                    },
+                    {
+                        "name": "Lab - Left terminal (Biotechnology) - hint",
+                        "ref": "Lab - hint/Left terminal (Biotechnology) - hint"
+                    },
+                    {
+                        "name": "Lab - Right terminal (Experiment #11) - hint",
+                        "ref": "Lab - hint/Right terminal (Experiment #11) - hint"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "606",
+                        "y": "2152",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "Lake Desolation - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": "Memory - Coyote Jump (Time Messenger) - hint",
+                        "ref": "Lake Desolation - hint/Memory - hint/Coyote Jump (Time Messenger) - hint"
+                    },
+                    {
+                        "name": "Lake Desolation - Starter chest 2 - hint",
+                        "ref": "Lake Desolation - hint/Starter chest 2 - hint"
+                    },
+                    {
+                        "name": "Lake Desolation - Starter chest 3 - hint",
+                        "ref": "Lake Desolation - hint/Starter chest 3 - hint"
+                    },
+                    {
+                        "name": "Lake Desolation - Starter chest 1 - hint",
+                        "ref": "Lake Desolation - hint/Starter chest 1 - hint"
+                    },
+                    {
+                        "name": "Lake Desolation - Forget me not chest - hint",
+                        "ref": "Lake Desolation - hint/Forget me not chest - hint"
+                    },
+                    {
+                        "name": "Lake Desolation - Kitty Boss - hint",
+                        "ref": "Lake Desolation - hint/Kitty Boss - hint"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "2178",
+                        "y": "1297",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "Lake Desolation (Lower) - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": "Lake Desolation (Lower) - Timespinner Wheel room - hint",
+                        "ref": "Lake Desolation (Lower) - hint/Timespinner Wheel room - hint"
+                    },
+                    {
+                        "name": "Lake Desolation (Lower) - Chicken chest - hint",
+                        "ref": "Lake Desolation (Lower) - hint/Chicken chest - hint"
+                    },
+                    {
+                        "name": "Lake Desolation (Lower) - Not so secret room - hint",
+                        "ref": "Lake Desolation (Lower) - hint/Not so secret room - hint"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "206",
+                        "y": "342",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "Lake Desolation (Upper) - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": "Lake Desolation (Upper) - Tank chest - hint",
+                        "ref": "Lake Desolation (Upper) - hint/Tank chest - hint"
+                    },
+                    {
+                        "name": "Lake Desolation (Upper) - Oxygen recovery room - hint",
+                        "ref": "Lake Desolation (Upper) - hint/Oxygen recovery room - hint"
+                    },
+                    {
+                        "name": "Lake Desolation (Upper) - Secret room - hint",
+                        "ref": "Lake Desolation (Upper) - hint/Secret room - hint"
+                    },
+                    {
+                        "name": "Lake Desolation (Upper) - Double jump cave platform - hint",
+                        "ref": "Lake Desolation (Upper) - hint/Double jump cave platform - hint"
+                    },
+                    {
+                        "name": "Lake Desolation (Upper) - Double jump cave floor - hint",
+                        "ref": "Lake Desolation (Upper) - hint/Double jump cave floor - hint"
+                    },
+                    {
+                        "name": "Lake Desolation (Upper) - Sparrow chest - hint",
+                        "ref": "Lake Desolation (Upper) - hint/Sparrow chest - hint"
+                    },
+                    {
+                        "name": "Lake Desolation (Upper) - Crash site pedestal - hint",
+                        "ref": "Lake Desolation (Upper) - hint/Crash site pedestal - hint"
+                    },
+                    {
+                        "name": "Lake Desolation (Upper) - Crash site chest 1 - hint",
+                        "ref": "Lake Desolation (Upper) - hint/Crash site chest 1 - hint"
+                    },
+                    {
+                        "name": "Lake Desolation (Upper) - Crash site chest 2 - hint",
+                        "ref": "Lake Desolation (Upper) - hint/Crash site chest 2 - hint"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "1145",
+                        "y": "1693",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "Lake Serene - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": "Lake Serene - Before Big Bird - hint",
+                        "ref": "Lake Serene - hint/Before Big Bird - hint"
+                    },
+                    {
+                        "name": "Lake Serene - Behind the vines - hint",
+                        "ref": "Lake Serene - hint/Behind the vines - hint"
+                    },
+                    {
+                        "name": "Lake Serene - Pyramid keys room - hint",
+                        "ref": "Lake Serene - hint/Pyramid keys room - hint"
+                    },
+                    {
+                        "name": "Lake Serene - Cantoran - hint",
+                        "ref": "Lake Serene - hint/Cantoran - hint"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "1396",
+                        "y": "1914",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "Lake Serene (Lower) - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": "Lake Serene (Lower) - Deep dive - hint",
+                        "ref": "Lake Serene (Lower) - hint/Deep dive - hint"
+                    },
+                    {
+                        "name": "Lake Serene (Lower) - Under the eels - hint",
+                        "ref": "Lake Serene (Lower) - hint/Under the eels - hint"
+                    },
+                    {
+                        "name": "Lake Serene (Lower) - Water spikes room - hint",
+                        "ref": "Lake Serene (Lower) - hint/Water spikes room - hint"
+                    },
+                    {
+                        "name": "Lake Serene (Lower) - Underwater secret - hint",
+                        "ref": "Lake Serene (Lower) - hint/Underwater secret - hint"
+                    },
+                    {
+                        "name": "Lake Serene (Lower) - T chest - hint",
+                        "ref": "Lake Serene (Lower) - hint/T chest - hint"
+                    },
+                    {
+                        "name": "Lake Serene (Lower) - Past the eels - hint",
+                        "ref": "Lake Serene (Lower) - hint/Past the eels - hint"
+                    },
+                    {
+                        "name": "Lake Serene (Lower) - Underwater pedestal - hint",
+                        "ref": "Lake Serene (Lower) - hint/Underwater pedestal - hint"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "1413",
+                        "y": "2232",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "Lake Serene (Upper) - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": "Lake Serene (Upper) - Rat nest - hint",
+                        "ref": "Lake Serene (Upper) - hint/Rat nest - hint"
+                    },
+                    {
+                        "name": "Lake Serene (Upper) - Double jump cave platform - hint",
+                        "ref": "Lake Serene (Upper) - hint/Double jump cave platform - hint"
+                    },
+                    {
+                        "name": "Lake Serene (Upper) - Double jump cave floor - hint",
+                        "ref": "Lake Serene (Upper) - hint/Double jump cave floor - hint"
+                    },
+                    {
+                        "name": "Lake Serene (Upper) - Cave secret - hint",
+                        "ref": "Lake Serene (Upper) - hint/Cave secret - hint"
+                    },
+                    {
+                        "name": "Lake Serene (Upper) - Chicken ledge - hint",
+                        "ref": "Lake Serene (Upper) - hint/Chicken ledge - hint"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "574",
+                        "y": "2047",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "Library - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": "Memory - Waterway (A Message) - hint",
+                        "ref": "Library - hint/Memory - hint/Waterway (A Message) - hint"
+                    },
+                    {
+                        "name": "Memory - Library Gap (Lachiemi Sun) - hint",
+                        "ref": "Library - hint/Memory - hint/Library Gap (Lachiemi Sun) - hint"
+                    },
+                    {
+                        "name": "Memory - Mr. Hat Portrait (Moonlit Night) - hint",
+                        "ref": "Library - hint/Memory - hint/Mr. Hat Portrait (Moonlit Night) - hint"
+                    },
+                    {
+                        "name": "Library - Basement - hint",
+                        "ref": "Library - hint/Basement - hint"
+                    },
+                    {
+                        "name": "Library - Warp gate - hint",
+                        "ref": "Library - hint/Warp gate - hint"
+                    },
+                    {
+                        "name": "Library - Librarian - hint",
+                        "ref": "Library - hint/Librarian - hint"
+                    },
+                    {
+                        "name": "Library - Reading nook chest - hint",
+                        "ref": "Library - hint/Reading nook chest - hint"
+                    },
+                    {
+                        "name": "Library - Storage room chest 1 - hint",
+                        "ref": "Library - hint/Storage room chest 1 - hint"
+                    },
+                    {
+                        "name": "Library - Storage room chest 2 - hint",
+                        "ref": "Library - hint/Storage room chest 2 - hint"
+                    },
+                    {
+                        "name": "Library - Storage room chest 3 - hint",
+                        "ref": "Library - hint/Storage room chest 3 - hint"
+                    },
+                    {
+                        "name": "Library - Backer room chest 5 - hint",
+                        "ref": "Library - hint/Backer room chest 5 - hint"
+                    },
+                    {
+                        "name": "Library - Backer room chest 4 - hint",
+                        "ref": "Library - hint/Backer room chest 4 - hint"
+                    },
+                    {
+                        "name": "Library - Backer room chest 3 - hint",
+                        "ref": "Library - hint/Backer room chest 3 - hint"
+                    },
+                    {
+                        "name": "Library - Backer room chest 2 - hint",
+                        "ref": "Library - hint/Backer room chest 2 - hint"
+                    },
+                    {
+                        "name": "Library - Backer room chest 1 - hint",
+                        "ref": "Library - hint/Backer room chest 1 - hint"
+                    },
+                    {
+                        "name": "Library - Terminal 2 (Lachiem) - hint",
+                        "ref": "Library - hint/Terminal 2 (Lachiem) - hint"
+                    },
+                    {
+                        "name": "Library - Terminal 1 (Windaria) - hint",
+                        "ref": "Library - hint/Terminal 1 (Windaria) - hint"
+                    },
+                    {
+                        "name": "Library - Terminal 3 (Emperor Nuvius) - hint",
+                        "ref": "Library - hint/Terminal 3 (Emperor Nuvius) - hint"
+                    },
+                    {
+                        "name": "Library - V terminal 1 (War of the Sisters) - hint",
+                        "ref": "Library - hint/V terminal 1 (War of the Sisters) - hint"
+                    },
+                    {
+                        "name": "Library - V terminal 2 (Lake Desolation Map) - hint",
+                        "ref": "Library - hint/V terminal 2 (Lake Desolation Map) - hint"
+                    },
+                    {
+                        "name": "Library - V terminal 3 (Vilete) - hint",
+                        "ref": "Library - hint/V terminal 3 (Vilete) - hint"
+                    },
+                    {
+                        "name": "Library - Backer room terminal (Vandagray Metropolis Map) - hint",
+                        "ref": "Library - hint/Backer room terminal (Vandagray Metropolis Map) - hint"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "2273",
+                        "y": "2234",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "Military Fortress - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": "Memory - Bomber Climb (A Solution) - hint",
+                        "ref": "Military Fortress - hint/Memory - hint/Bomber Climb (A Solution) - hint"
+                    },
+                    {
+                        "name": "Military Fortress - Bomber chest - hint",
+                        "ref": "Military Fortress - hint/Bomber chest - hint"
+                    },
+                    {
+                        "name": "Military Fortress - Close combat room - hint",
+                        "ref": "Military Fortress - hint/Close combat room - hint"
+                    },
+                    {
+                        "name": "Military Fortress - Soldiers bridge - hint",
+                        "ref": "Military Fortress - hint/Soldiers bridge - hint"
+                    },
+                    {
+                        "name": "Military Fortress - Giantess room - hint",
+                        "ref": "Military Fortress - hint/Giantess room - hint"
+                    },
+                    {
+                        "name": "Military Fortress - Giantess bridge - hint",
+                        "ref": "Military Fortress - hint/Giantess bridge - hint"
+                    },
+                    {
+                        "name": "Military Fortress - B door chest 2 - hint",
+                        "ref": "Military Fortress - hint/B door chest 2 - hint"
+                    },
+                    {
+                        "name": "Military Fortress - B door chest 1 - hint",
+                        "ref": "Military Fortress - hint/B door chest 1 - hint"
+                    },
+                    {
+                        "name": "Military Fortress - Pedestal - hint",
+                        "ref": "Military Fortress - hint/Pedestal - hint"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "1524",
+                        "y": "738",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "Ravenlord - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": "Ravenlord - Post fight (pedestal) - hint",
+                        "ref": "Ravenlord - hint/Post fight (pedestal) - hint"
+                    },
+                    {
+                        "name": "Ravenlord - Pre fight - hint",
+                        "ref": "Ravenlord - hint/Pre fight - hint"
+                    },
+                    {
+                        "name": "Ravenlord - Post fight (chest) - hint",
+                        "ref": "Ravenlord - hint/Post fight (chest) - hint"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "1772",
+                        "y": "1353",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "Refugee Camp - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": "Refugee Camp - Neliste's Bra - hint",
+                        "ref": "Refugee Camp - hint/Neliste's Bra - hint"
+                    },
+                    {
+                        "name": "Refugee Camp - Storage chest 3 - hint",
+                        "ref": "Refugee Camp - hint/Storage chest 3 - hint"
+                    },
+                    {
+                        "name": "Refugee Camp - Storage chest 2 - hint",
+                        "ref": "Refugee Camp - hint/Storage chest 2 - hint"
+                    },
+                    {
+                        "name": "Refugee Camp - Storage chest 1 - hint",
+                        "ref": "Refugee Camp - hint/Storage chest 1 - hint"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "1951",
+                        "y": "2122",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "Royal Towers - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": "Journal - Aelana's Room (Diplomatic Missive) - hint",
+                        "ref": "Royal Towers - hint/Journal - hint/Aelana's Room (Diplomatic Missive) - hint"
+                    },
+                    {
+                        "name": "Journal - Top Struggle Juggle Base (War of the Sisters) - hint",
+                        "ref": "Royal Towers - hint/Journal - hint/Top Struggle Juggle Base (War of the Sisters) - hint"
+                    },
+                    {
+                        "name": "Journal - Aelana Boss (Stained Letter) - hint",
+                        "ref": "Royal Towers - hint/Journal - hint/Aelana Boss (Stained Letter) - hint"
+                    },
+                    {
+                        "name": "Journal - Near Bottom Struggle Juggle (Mission Findings) - hint",
+                        "ref": "Royal Towers - hint/Journal - hint/Near Bottom Struggle Juggle (Mission Findings) - hint"
+                    },
+                    {
+                        "name": "Royal Towers - Floor secret - hint",
+                        "ref": "Royal Towers - hint/Floor secret - hint"
+                    },
+                    {
+                        "name": "Royal Towers - Pre-climb gap - hint",
+                        "ref": "Royal Towers - hint/Pre-climb gap - hint"
+                    },
+                    {
+                        "name": "Royal Towers - Long balcony - hint",
+                        "ref": "Royal Towers - hint/Long balcony - hint"
+                    },
+                    {
+                        "name": "Royal Towers - Past bottom struggle juggle - hint",
+                        "ref": "Royal Towers - hint/Past bottom struggle juggle - hint"
+                    },
+                    {
+                        "name": "Royal Towers - Bottom struggle juggle - hint",
+                        "ref": "Royal Towers - hint/Bottom struggle juggle - hint"
+                    },
+                    {
+                        "name": "Royal Towers - Top struggle juggle - hint",
+                        "ref": "Royal Towers - hint/Top struggle juggle - hint"
+                    },
+                    {
+                        "name": "Royal Towers - No struggle required - hint",
+                        "ref": "Royal Towers - hint/No struggle required - hint"
+                    },
+                    {
+                        "name": "Royal Towers - Right tower freebie - hint",
+                        "ref": "Royal Towers - hint/Right tower freebie - hint"
+                    },
+                    {
+                        "name": "Royal Towers - Left tower small balcony - hint",
+                        "ref": "Royal Towers - hint/Left tower small balcony - hint"
+                    },
+                    {
+                        "name": "Royal Towers - Left tower royal guard - hint",
+                        "ref": "Royal Towers - hint/Left tower royal guard - hint"
+                    },
+                    {
+                        "name": "Royal Towers - Before Aelana - hint",
+                        "ref": "Royal Towers - hint/Before Aelana - hint"
+                    },
+                    {
+                        "name": "Royal Towers - Aelana's attic - hint",
+                        "ref": "Royal Towers - hint/Aelana's attic - hint"
+                    },
+                    {
+                        "name": "Royal Towers - Aelana's chest - hint",
+                        "ref": "Royal Towers - hint/Aelana's chest - hint"
+                    },
+                    {
+                        "name": "Royal Towers - Aelana's pedestal - hint",
+                        "ref": "Royal Towers - hint/Aelana's pedestal - hint"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "2251",
+                        "y": "1048",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "Sealed Caves (Sirens) - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": "Sealed Caves (Sirens) - Water hook - hint",
+                        "ref": "Sealed Caves (Sirens) - hint/Water hook - hint"
+                    },
+                    {
+                        "name": "Sealed Caves (Sirens) - Siren room underwater right - hint",
+                        "ref": "Sealed Caves (Sirens) - hint/Siren room underwater right - hint"
+                    },
+                    {
+                        "name": "Sealed Caves (Sirens) - Siren room underwater left - hint",
+                        "ref": "Sealed Caves (Sirens) - hint/Siren room underwater left - hint"
+                    },
+                    {
+                        "name": "Sealed Caves (Sirens) - Cave after sirens chest 1 - hint",
+                        "ref": "Sealed Caves (Sirens) - hint/Cave after sirens chest 1 - hint"
+                    },
+                    {
+                        "name": "Sealed Caves (Sirens) - Cave after sirens chest 2 - hint",
+                        "ref": "Sealed Caves (Sirens) - hint/Cave after sirens chest 2 - hint"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "179",
+                        "y": "245",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "Sealed Caves (Xarion) - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": "Sealed Caves (Xarion) - Skeleton - hint",
+                        "ref": "Sealed Caves (Xarion) - hint/Skeleton - hint"
+                    },
+                    {
+                        "name": "Sealed Caves (Xarion) - Shroom jump room - hint",
+                        "ref": "Sealed Caves (Xarion) - hint/Shroom jump room - hint"
+                    },
+                    {
+                        "name": "Sealed Caves (Xarion) - Double shroom room - hint",
+                        "ref": "Sealed Caves (Xarion) - hint/Double shroom room - hint"
+                    },
+                    {
+                        "name": "Sealed Caves (Xarion) - Mini jackpot room - hint",
+                        "ref": "Sealed Caves (Xarion) - hint/Mini jackpot room - hint"
+                    },
+                    {
+                        "name": "Sealed Caves (Xarion) - Below mini jackpot room - hint",
+                        "ref": "Sealed Caves (Xarion) - hint/Below mini jackpot room - hint"
+                    },
+                    {
+                        "name": "Sealed Caves (Xarion) - Secret room - hint",
+                        "ref": "Sealed Caves (Xarion) - hint/Secret room - hint"
+                    },
+                    {
+                        "name": "Sealed Caves (Xarion) - Bottom left room - hint",
+                        "ref": "Sealed Caves (Xarion) - hint/Bottom left room - hint"
+                    },
+                    {
+                        "name": "Sealed Caves (Xarion) - Last chance before Xarion - hint",
+                        "ref": "Sealed Caves (Xarion) - hint/Last chance before Xarion - hint"
+                    },
+                    {
+                        "name": "Sealed Caves (Xarion) - Xarion - hint",
+                        "ref": "Sealed Caves (Xarion) - hint/Xarion - hint"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "1011",
+                        "y": "1895",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "Temporal Gyre - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": "Temporal Gyre - Chest 1 - hint",
+                        "ref": "Temporal Gyre - hint/Chest 1 - hint"
+                    },
+                    {
+                        "name": "Temporal Gyre - Chest 2 - hint",
+                        "ref": "Temporal Gyre - hint/Chest 2 - hint"
+                    },
+                    {
+                        "name": "Temporal Gyre - Chest 3 - hint",
+                        "ref": "Temporal Gyre - hint/Chest 3 - hint"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "2152",
+                        "y": "2190",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "Tutorial - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": "Tutorial - Yo Momma 1 - hint",
+                        "ref": "Tutorial - hint/Yo Momma 1 - hint"
+                    },
+                    {
+                        "name": "Tutorial - Yo Momma 2 - hint",
+                        "ref": "Tutorial - hint/Yo Momma 2 - hint"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "1068",
+                        "y": "1060",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "Varndagroth Towers - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": "Memory - Siren Elevator (Childhood) - hint",
+                        "ref": "Varndagroth Towers - hint/Memory - hint/Siren Elevator (Childhood) - hint"
+                    },
+                    {
+                        "name": "Varndagroth Towers - Bridge - hint",
+                        "ref": "Varndagroth Towers - hint/Bridge - hint"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "40",
+                        "y": "585",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "Varndagroth Towers (Left) - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": "Memory - Elevator (Nomads) - hint",
+                        "ref": "Varndagroth Towers (Left) - hint/Memory - hint/Elevator (Nomads) - hint"
+                    },
+                    {
+                        "name": "Varndagroth Towers (Left) - Elevator Key not required - hint",
+                        "ref": "Varndagroth Towers (Left) - hint/Elevator Key not required - hint"
+                    },
+                    {
+                        "name": "Varndagroth Towers (Left) - Ye olde Timespinner - hint",
+                        "ref": "Varndagroth Towers (Left) - hint/Ye olde Timespinner - hint"
+                    },
+                    {
+                        "name": "Varndagroth Towers (Left) - Bottom floor - hint",
+                        "ref": "Varndagroth Towers (Left) - hint/Bottom floor - hint"
+                    },
+                    {
+                        "name": "Varndagroth Towers (Left) - Air vents secret - hint",
+                        "ref": "Varndagroth Towers (Left) - hint/Air vents secret - hint"
+                    },
+                    {
+                        "name": "Varndagroth Towers (Left) - Elevator chest - hint",
+                        "ref": "Varndagroth Towers (Left) - hint/Elevator chest - hint"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "2023",
+                        "y": "1791",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "Varndagroth Towers (Right) - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": "Memory - Bottom (Faron) - hint",
+                        "ref": "Varndagroth Towers (Right) - hint/Memory - hint/Bottom (Faron) - hint"
+                    },
+                    {
+                        "name": "Varndagroth Towers (Right) - Elevator chest - hint",
+                        "ref": "Varndagroth Towers (Right) - hint/Elevator chest - hint"
+                    },
+                    {
+                        "name": "Varndagroth Towers (Right) - Elevator card chest - hint",
+                        "ref": "Varndagroth Towers (Right) - hint/Elevator card chest - hint"
+                    },
+                    {
+                        "name": "Varndagroth Towers (Right) - Air vents right chest - hint",
+                        "ref": "Varndagroth Towers (Right) - hint/Air vents right chest - hint"
+                    },
+                    {
+                        "name": "Varndagroth Towers (Right) - Air vents left chest - hint",
+                        "ref": "Varndagroth Towers (Right) - hint/Air vents left chest - hint"
+                    },
+                    {
+                        "name": "Varndagroth Towers (Right) - Bottom floor - hint",
+                        "ref": "Varndagroth Towers (Right) - hint/Bottom floor - hint"
+                    },
+                    {
+                        "name": "Varndagroth Towers (Right) - Varndagroth - hint",
+                        "ref": "Varndagroth Towers (Right) - hint/Varndagroth - hint"
+                    },
+                    {
+                        "name": "Varndagroth Towers (Right) - Spider Hell - hint",
+                        "ref": "Varndagroth Towers (Right) - hint/Spider Hell - hint"
+                    },
+                    {
+                        "name": "Varndagroth Towers (Right) - Medbay terminal (Bleakness Research) - hint",
+                        "ref": "Varndagroth Towers (Right) - hint/Medbay terminal (Bleakness Research) - hint"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "1463",
+                        "y": "1366",
+                        "size": 12
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Overworld",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "children": [
+            {
+                "name": "Ancient Pyramid",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Ancient Pyramid - Why not it's right there",
+                        "ref": "Ancient Pyramid/Why not it's right there"
+                    },
+                    {
+                        "name": "Ancient Pyramid - Conviction guarded room",
+                        "ref": "Ancient Pyramid/Conviction guarded room"
+                    },
+                    {
+                        "name": "Ancient Pyramid - Pit secret room",
+                        "ref": "Ancient Pyramid/Pit secret room"
+                    },
+                    {
+                        "name": "Ancient Pyramid - Regret chest",
+                        "ref": "Ancient Pyramid/Regret chest"
+                    },
+                    {
+                        "name": "Ancient Pyramid - Nightmare Door chest",
+                        "ref": "Ancient Pyramid/Nightmare Door chest"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "1008",
+                        "y": "426",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Castle Basement",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Journal - Castle Loop Giantess (Political Advice)",
+                        "ref": "Castle Basement/Journal/Castle Loop Giantess (Political Advice)"
+                    },
+                    {
+                        "name": "Castle Basement - Secret pedestal",
+                        "ref": "Castle Basement/Secret pedestal"
+                    },
+                    {
+                        "name": "Castle Basement - Clean the castle basement",
+                        "ref": "Castle Basement/Clean the castle basement"
+                    },
+                    {
+                        "name": "Castle Basement - Giantess guarded chest",
+                        "ref": "Castle Basement/Giantess guarded chest"
+                    },
+                    {
+                        "name": "Castle Basement - Omelette chest",
+                        "ref": "Castle Basement/Omelette chest"
+                    },
+                    {
+                        "name": "Castle Basement - Just an egg",
+                        "ref": "Castle Basement/Just an egg"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "895",
+                        "y": "357",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Castle Keep",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Journal - Under the Twins (Letter of Reference)",
+                        "ref": "Castle Keep/Journal/Under the Twins (Letter of Reference)"
+                    },
+                    {
+                        "name": "Castle Keep - Yas queen room",
+                        "ref": "Castle Keep/Yas queen room"
+                    },
+                    {
+                        "name": "Castle Keep - Under the twins",
+                        "ref": "Castle Keep/Under the twins"
+                    },
+                    {
+                        "name": "Castle Keep - Advisor jump",
+                        "ref": "Castle Keep/Advisor jump"
+                    },
+                    {
+                        "name": "Castle Keep - Twins",
+                        "ref": "Castle Keep/Twins"
+                    },
+                    {
+                        "name": "Castle Keep - Royal guard tiny room",
+                        "ref": "Castle Keep/Royal guard tiny room"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "716",
+                        "y": "679",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Castle Ramparts",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Journal - Archer + Knight (Declaration of Independence)",
+                        "ref": "Castle Ramparts/Journal/Archer + Knight (Declaration of Independence)"
+                    },
+                    {
+                        "name": "Castle Ramparts - In the moat",
+                        "ref": "Castle Ramparts/In the moat"
+                    },
+                    {
+                        "name": "Castle Ramparts - Bomber chest",
+                        "ref": "Castle Ramparts/Bomber chest"
+                    },
+                    {
+                        "name": "Castle Ramparts - Freeze the engineer",
+                        "ref": "Castle Ramparts/Freeze the engineer"
+                    },
+                    {
+                        "name": "Castle Ramparts - Giantess guarded room",
+                        "ref": "Castle Ramparts/Giantess guarded room"
+                    },
+                    {
+                        "name": "Castle Ramparts - Knight and archer guarded room",
+                        "ref": "Castle Ramparts/Knight and archer guarded room"
+                    },
+                    {
+                        "name": "Castle Ramparts - Pedestal",
+                        "ref": "Castle Ramparts/Pedestal"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "2068",
+                        "y": "1269",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Caves of Banishment (Maw)",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Journal - Lower Left Caves (Naivety)",
+                        "ref": "Caves of Banishment (Maw)/Journal/Lower Left Caves (Naivety)"
+                    },
+                    {
+                        "name": "Caves of Banishment (Maw) - Shroom jump room",
+                        "ref": "Caves of Banishment (Maw)/Shroom jump room"
+                    },
+                    {
+                        "name": "Caves of Banishment (Maw) - Secret room",
+                        "ref": "Caves of Banishment (Maw)/Secret room"
+                    },
+                    {
+                        "name": "Caves of Banishment (Maw) - Bottom left room",
+                        "ref": "Caves of Banishment (Maw)/Bottom left room"
+                    },
+                    {
+                        "name": "Caves of Banishment (Maw) - Single shroom room",
+                        "ref": "Caves of Banishment (Maw)/Single shroom room"
+                    },
+                    {
+                        "name": "Caves of Banishment (Maw) - Jackpot room chest 1",
+                        "ref": "Caves of Banishment (Maw)/Jackpot room chest 1"
+                    },
+                    {
+                        "name": "Caves of Banishment (Maw) - Jackpot room chest 2",
+                        "ref": "Caves of Banishment (Maw)/Jackpot room chest 2"
+                    },
+                    {
+                        "name": "Caves of Banishment (Maw) - Jackpot room chest 3",
+                        "ref": "Caves of Banishment (Maw)/Jackpot room chest 3"
+                    },
+                    {
+                        "name": "Caves of Banishment (Maw) - Jackpot room chest 4",
+                        "ref": "Caves of Banishment (Maw)/Jackpot room chest 4"
+                    },
+                    {
+                        "name": "Caves of Banishment (Maw) - Pedestal",
+                        "ref": "Caves of Banishment (Maw)/Pedestal"
+                    },
+                    {
+                        "name": "Caves of Banishment (Maw) - Last chance before Maw",
+                        "ref": "Caves of Banishment (Maw)/Last chance before Maw"
+                    },
+                    {
+                        "name": "Caves of Banishment (Maw) - Plasma Crystal",
+                        "ref": "Caves of Banishment (Maw)/Plasma Crystal"
+                    },
+                    {
+                        "name": "Caves of Banishment (Maw) - Mineshaft",
+                        "ref": "Caves of Banishment (Maw)/Mineshaft"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "986",
+                        "y": "797",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Caves of Banishment (Sirens)",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Caves of Banishment (Sirens) - Wyvern room",
+                        "ref": "Caves of Banishment (Sirens)/Wyvern room"
+                    },
+                    {
+                        "name": "Caves of Banishment (Sirens) - Siren room above water chest",
+                        "ref": "Caves of Banishment (Sirens)/Siren room above water chest"
+                    },
+                    {
+                        "name": "Caves of Banishment (Sirens) - Siren room underwater left chest",
+                        "ref": "Caves of Banishment (Sirens)/Siren room underwater left chest"
+                    },
+                    {
+                        "name": "Caves of Banishment (Sirens) - Siren room underwater right chest",
+                        "ref": "Caves of Banishment (Sirens)/Siren room underwater right chest"
+                    },
+                    {
+                        "name": "Caves of Banishment (Sirens) - Siren room underwater right ground",
+                        "ref": "Caves of Banishment (Sirens)/Siren room underwater right ground"
+                    },
+                    {
+                        "name": "Caves of Banishment (Sirens) - Water hook",
+                        "ref": "Caves of Banishment (Sirens)/Water hook"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "2465",
+                        "y": "1857",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Emperor's Tower",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Memory - Way Up There (Final Circle)",
+                        "ref": "Emperor's Tower/Memory/Way Up There (Final Circle)"
+                    },
+                    {
+                        "name": "Emperor's Tower - Courtyard bottom chest",
+                        "ref": "Emperor's Tower/Courtyard bottom chest"
+                    },
+                    {
+                        "name": "Emperor's Tower - Courtyard floor secret",
+                        "ref": "Emperor's Tower/Courtyard floor secret"
+                    },
+                    {
+                        "name": "Emperor's Tower - Courtyard upper chest",
+                        "ref": "Emperor's Tower/Courtyard upper chest"
+                    },
+                    {
+                        "name": "Emperor's Tower - Galactic sage room",
+                        "ref": "Emperor's Tower/Galactic sage room"
+                    },
+                    {
+                        "name": "Emperor's Tower - Bottom right tower",
+                        "ref": "Emperor's Tower/Bottom right tower"
+                    },
+                    {
+                        "name": "Emperor's Tower - Wayyyy up there",
+                        "ref": "Emperor's Tower/Wayyyy up there"
+                    },
+                    {
+                        "name": "Emperor's Tower - Left tower balcony",
+                        "ref": "Emperor's Tower/Left tower balcony"
+                    },
+                    {
+                        "name": "Emperor's Tower - Emperor's Chambers chest",
+                        "ref": "Emperor's Tower/Emperor's Chambers chest"
+                    },
+                    {
+                        "name": "Emperor's Tower - Emperor's Chambers pedestal",
+                        "ref": "Emperor's Tower/Emperor's Chambers pedestal"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "1008",
+                        "y": "548",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Forest",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Journal - Rats (Lachiem Expedition)",
+                        "ref": "Forest/Journal/Rats (Lachiem Expedition)"
+                    },
+                    {
+                        "name": "Journal - Bat Jump Ledge (Peace Treaty)",
+                        "ref": "Forest/Journal/Bat Jump Ledge (Peace Treaty)"
+                    },
+                    {
+                        "name": "Journal - Floating in Moat (Prime Edicts)",
+                        "ref": "Forest/Journal/Floating in Moat (Prime Edicts)"
+                    },
+                    {
+                        "name": "Forest - Refugee camp roof",
+                        "ref": "Forest/Refugee camp roof"
+                    },
+                    {
+                        "name": "Forest - Bat jump ledge",
+                        "ref": "Forest/Bat jump ledge"
+                    },
+                    {
+                        "name": "Forest - Green platform secret",
+                        "ref": "Forest/Green platform secret"
+                    },
+                    {
+                        "name": "Forest - Rats guarded chest",
+                        "ref": "Forest/Rats guarded chest"
+                    },
+                    {
+                        "name": "Forest - Waterfall chest 1",
+                        "ref": "Forest/Waterfall chest 1"
+                    },
+                    {
+                        "name": "Forest - Waterfall chest 2",
+                        "ref": "Forest/Waterfall chest 2"
+                    },
+                    {
+                        "name": "Forest - Batcave",
+                        "ref": "Forest/Batcave"
+                    },
+                    {
+                        "name": "Forest - Before Serene single bat cave",
+                        "ref": "Forest/Before Serene single bat cave"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "1967",
+                        "y": "1616",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Ifrit",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Ifrit - Post fight (pedestal)",
+                        "ref": "Ifrit/Post fight (pedestal)"
+                    },
+                    {
+                        "name": "Ifrit - Pre fight",
+                        "ref": "Ifrit/Pre fight"
+                    },
+                    {
+                        "name": "Ifrit - Post fight (chest)",
+                        "ref": "Ifrit/Post fight (chest)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "318",
+                        "y": "1539",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Lab",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Memory - Genza's Secret Stash 1 (An Old Friend)",
+                        "ref": "Lab/Memory/Genza's Secret Stash 1 (An Old Friend)"
+                    },
+                    {
+                        "name": "Memory - Genza's Secret Stash 2 (Twilight Dinner)",
+                        "ref": "Lab/Memory/Genza's Secret Stash 2 (Twilight Dinner)"
+                    },
+                    {
+                        "name": "Lab - Coffee break",
+                        "ref": "Lab/Coffee break"
+                    },
+                    {
+                        "name": "Lab - Lower trash right",
+                        "ref": "Lab/Lower trash right"
+                    },
+                    {
+                        "name": "Lab - Lower trash left",
+                        "ref": "Lab/Lower trash left"
+                    },
+                    {
+                        "name": "Lab - Below lab entrance",
+                        "ref": "Lab/Below lab entrance"
+                    },
+                    {
+                        "name": "Lab - Trash jump room",
+                        "ref": "Lab/Trash jump room"
+                    },
+                    {
+                        "name": "Lab - Dynamo Works",
+                        "ref": "Lab/Dynamo Works"
+                    },
+                    {
+                        "name": "Lab - Genza (Blob Mom)",
+                        "ref": "Lab/Genza (Blob Mom)"
+                    },
+                    {
+                        "name": "Lab - Experiment #13",
+                        "ref": "Lab/Experiment #13"
+                    },
+                    {
+                        "name": "Lab - Download and chest room chest",
+                        "ref": "Lab/Download and chest room chest"
+                    },
+                    {
+                        "name": "Lab - Lab secret",
+                        "ref": "Lab/Lab secret"
+                    },
+                    {
+                        "name": "Lab - Spider Hell",
+                        "ref": "Lab/Spider Hell"
+                    },
+                    {
+                        "name": "Lab - Download and chest room terminal (Experiment #13)",
+                        "ref": "Lab/Download and chest room terminal (Experiment #13)"
+                    },
+                    {
+                        "name": "Lab - Middle terminal (Amadeus Laboratory Map)",
+                        "ref": "Lab/Middle terminal (Amadeus Laboratory Map)"
+                    },
+                    {
+                        "name": "Lab - Sentry platform terminal (Origins)",
+                        "ref": "Lab/Sentry platform terminal (Origins)"
+                    },
+                    {
+                        "name": "Lab - Experiment 13 terminal (W.R.E.C Farewell)",
+                        "ref": "Lab/Experiment 13 terminal (W.R.E.C Farewell)"
+                    },
+                    {
+                        "name": "Lab - Left terminal (Biotechnology)",
+                        "ref": "Lab/Left terminal (Biotechnology)"
+                    },
+                    {
+                        "name": "Lab - Right terminal (Experiment #11)",
+                        "ref": "Lab/Right terminal (Experiment #11)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "606",
+                        "y": "2152",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Lake Desolation",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Memory - Coyote Jump (Time Messenger)",
+                        "ref": "Lake Desolation/Memory/Coyote Jump (Time Messenger)"
+                    },
+                    {
+                        "name": "Lake Desolation - Starter chest 2",
+                        "ref": "Lake Desolation/Starter chest 2"
+                    },
+                    {
+                        "name": "Lake Desolation - Starter chest 3",
+                        "ref": "Lake Desolation/Starter chest 3"
+                    },
+                    {
+                        "name": "Lake Desolation - Starter chest 1",
+                        "ref": "Lake Desolation/Starter chest 1"
+                    },
+                    {
+                        "name": "Lake Desolation - Forget me not chest",
+                        "ref": "Lake Desolation/Forget me not chest"
+                    },
+                    {
+                        "name": "Lake Desolation - Kitty Boss",
+                        "ref": "Lake Desolation/Kitty Boss"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "2178",
+                        "y": "1297",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Lake Desolation (Lower)",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Lake Desolation (Lower) - Timespinner Wheel room",
+                        "ref": "Lake Desolation (Lower)/Timespinner Wheel room"
+                    },
+                    {
+                        "name": "Lake Desolation (Lower) - Chicken chest",
+                        "ref": "Lake Desolation (Lower)/Chicken chest"
+                    },
+                    {
+                        "name": "Lake Desolation (Lower) - Not so secret room",
+                        "ref": "Lake Desolation (Lower)/Not so secret room"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "206",
+                        "y": "342",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Lake Desolation (Upper)",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Lake Desolation (Upper) - Tank chest",
+                        "ref": "Lake Desolation (Upper)/Tank chest"
+                    },
+                    {
+                        "name": "Lake Desolation (Upper) - Oxygen recovery room",
+                        "ref": "Lake Desolation (Upper)/Oxygen recovery room"
+                    },
+                    {
+                        "name": "Lake Desolation (Upper) - Secret room",
+                        "ref": "Lake Desolation (Upper)/Secret room"
+                    },
+                    {
+                        "name": "Lake Desolation (Upper) - Double jump cave platform",
+                        "ref": "Lake Desolation (Upper)/Double jump cave platform"
+                    },
+                    {
+                        "name": "Lake Desolation (Upper) - Double jump cave floor",
+                        "ref": "Lake Desolation (Upper)/Double jump cave floor"
+                    },
+                    {
+                        "name": "Lake Desolation (Upper) - Sparrow chest",
+                        "ref": "Lake Desolation (Upper)/Sparrow chest"
+                    },
+                    {
+                        "name": "Lake Desolation (Upper) - Crash site pedestal",
+                        "ref": "Lake Desolation (Upper)/Crash site pedestal"
+                    },
+                    {
+                        "name": "Lake Desolation (Upper) - Crash site chest 1",
+                        "ref": "Lake Desolation (Upper)/Crash site chest 1"
+                    },
+                    {
+                        "name": "Lake Desolation (Upper) - Crash site chest 2",
+                        "ref": "Lake Desolation (Upper)/Crash site chest 2"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "1145",
+                        "y": "1693",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Lake Serene",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Lake Serene - Before Big Bird",
+                        "ref": "Lake Serene/Before Big Bird"
+                    },
+                    {
+                        "name": "Lake Serene - Behind the vines",
+                        "ref": "Lake Serene/Behind the vines"
+                    },
+                    {
+                        "name": "Lake Serene - Pyramid keys room",
+                        "ref": "Lake Serene/Pyramid keys room"
+                    },
+                    {
+                        "name": "Lake Serene - Cantoran",
+                        "ref": "Lake Serene/Cantoran"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "1396",
+                        "y": "1914",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Lake Serene (Lower)",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Lake Serene (Lower) - Deep dive",
+                        "ref": "Lake Serene (Lower)/Deep dive"
+                    },
+                    {
+                        "name": "Lake Serene (Lower) - Under the eels",
+                        "ref": "Lake Serene (Lower)/Under the eels"
+                    },
+                    {
+                        "name": "Lake Serene (Lower) - Water spikes room",
+                        "ref": "Lake Serene (Lower)/Water spikes room"
+                    },
+                    {
+                        "name": "Lake Serene (Lower) - Underwater secret",
+                        "ref": "Lake Serene (Lower)/Underwater secret"
+                    },
+                    {
+                        "name": "Lake Serene (Lower) - T chest",
+                        "ref": "Lake Serene (Lower)/T chest"
+                    },
+                    {
+                        "name": "Lake Serene (Lower) - Past the eels",
+                        "ref": "Lake Serene (Lower)/Past the eels"
+                    },
+                    {
+                        "name": "Lake Serene (Lower) - Underwater pedestal",
+                        "ref": "Lake Serene (Lower)/Underwater pedestal"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "1413",
+                        "y": "2232",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Lake Serene (Upper)",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Lake Serene (Upper) - Rat nest",
+                        "ref": "Lake Serene (Upper)/Rat nest"
+                    },
+                    {
+                        "name": "Lake Serene (Upper) - Double jump cave platform",
+                        "ref": "Lake Serene (Upper)/Double jump cave platform"
+                    },
+                    {
+                        "name": "Lake Serene (Upper) - Double jump cave floor",
+                        "ref": "Lake Serene (Upper)/Double jump cave floor"
+                    },
+                    {
+                        "name": "Lake Serene (Upper) - Cave secret",
+                        "ref": "Lake Serene (Upper)/Cave secret"
+                    },
+                    {
+                        "name": "Lake Serene (Upper) - Chicken ledge",
+                        "ref": "Lake Serene (Upper)/Chicken ledge"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "574",
+                        "y": "2047",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Library",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Memory - Waterway (A Message)",
+                        "ref": "Library/Memory/Waterway (A Message)"
+                    },
+                    {
+                        "name": "Memory - Library Gap (Lachiemi Sun)",
+                        "ref": "Library/Memory/Library Gap (Lachiemi Sun)"
+                    },
+                    {
+                        "name": "Memory - Mr. Hat Portrait (Moonlit Night)",
+                        "ref": "Library/Memory/Mr. Hat Portrait (Moonlit Night)"
+                    },
+                    {
+                        "name": "Library - Basement",
+                        "ref": "Library/Basement"
+                    },
+                    {
+                        "name": "Library - Warp gate",
+                        "ref": "Library/Warp gate"
+                    },
+                    {
+                        "name": "Library - Librarian",
+                        "ref": "Library/Librarian"
+                    },
+                    {
+                        "name": "Library - Reading nook chest",
+                        "ref": "Library/Reading nook chest"
+                    },
+                    {
+                        "name": "Library - Storage room chest 1",
+                        "ref": "Library/Storage room chest 1"
+                    },
+                    {
+                        "name": "Library - Storage room chest 2",
+                        "ref": "Library/Storage room chest 2"
+                    },
+                    {
+                        "name": "Library - Storage room chest 3",
+                        "ref": "Library/Storage room chest 3"
+                    },
+                    {
+                        "name": "Library - Backer room chest 5",
+                        "ref": "Library/Backer room chest 5"
+                    },
+                    {
+                        "name": "Library - Backer room chest 4",
+                        "ref": "Library/Backer room chest 4"
+                    },
+                    {
+                        "name": "Library - Backer room chest 3",
+                        "ref": "Library/Backer room chest 3"
+                    },
+                    {
+                        "name": "Library - Backer room chest 2",
+                        "ref": "Library/Backer room chest 2"
+                    },
+                    {
+                        "name": "Library - Backer room chest 1",
+                        "ref": "Library/Backer room chest 1"
+                    },
+                    {
+                        "name": "Library - Terminal 2 (Lachiem)",
+                        "ref": "Library/Terminal 2 (Lachiem)"
+                    },
+                    {
+                        "name": "Library - Terminal 1 (Windaria)",
+                        "ref": "Library/Terminal 1 (Windaria)"
+                    },
+                    {
+                        "name": "Library - Terminal 3 (Emperor Nuvius)",
+                        "ref": "Library/Terminal 3 (Emperor Nuvius)"
+                    },
+                    {
+                        "name": "Library - V terminal 1 (War of the Sisters)",
+                        "ref": "Library/V terminal 1 (War of the Sisters)"
+                    },
+                    {
+                        "name": "Library - V terminal 2 (Lake Desolation Map)",
+                        "ref": "Library/V terminal 2 (Lake Desolation Map)"
+                    },
+                    {
+                        "name": "Library - V terminal 3 (Vilete)",
+                        "ref": "Library/V terminal 3 (Vilete)"
+                    },
+                    {
+                        "name": "Library - Backer room terminal (Vandagray Metropolis Map)",
+                        "ref": "Library/Backer room terminal (Vandagray Metropolis Map)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "2273",
+                        "y": "2234",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Military Fortress",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Memory - Bomber Climb (A Solution)",
+                        "ref": "Military Fortress/Memory/Bomber Climb (A Solution)"
+                    },
+                    {
+                        "name": "Military Fortress - Bomber chest",
+                        "ref": "Military Fortress/Bomber chest"
+                    },
+                    {
+                        "name": "Military Fortress - Close combat room",
+                        "ref": "Military Fortress/Close combat room"
+                    },
+                    {
+                        "name": "Military Fortress - Soldiers bridge",
+                        "ref": "Military Fortress/Soldiers bridge"
+                    },
+                    {
+                        "name": "Military Fortress - Giantess room",
+                        "ref": "Military Fortress/Giantess room"
+                    },
+                    {
+                        "name": "Military Fortress - Giantess bridge",
+                        "ref": "Military Fortress/Giantess bridge"
+                    },
+                    {
+                        "name": "Military Fortress - B door chest 2",
+                        "ref": "Military Fortress/B door chest 2"
+                    },
+                    {
+                        "name": "Military Fortress - B door chest 1",
+                        "ref": "Military Fortress/B door chest 1"
+                    },
+                    {
+                        "name": "Military Fortress - Pedestal",
+                        "ref": "Military Fortress/Pedestal"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "1524",
+                        "y": "738",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Ravenlord",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Ravenlord - Post fight (pedestal)",
+                        "ref": "Ravenlord/Post fight (pedestal)"
+                    },
+                    {
+                        "name": "Ravenlord - Pre fight",
+                        "ref": "Ravenlord/Pre fight"
+                    },
+                    {
+                        "name": "Ravenlord - Post fight (chest)",
+                        "ref": "Ravenlord/Post fight (chest)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "1772",
+                        "y": "1353",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Refugee Camp",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Refugee Camp - Neliste's Bra",
+                        "ref": "Refugee Camp/Neliste's Bra"
+                    },
+                    {
+                        "name": "Refugee Camp - Storage chest 3",
+                        "ref": "Refugee Camp/Storage chest 3"
+                    },
+                    {
+                        "name": "Refugee Camp - Storage chest 2",
+                        "ref": "Refugee Camp/Storage chest 2"
+                    },
+                    {
+                        "name": "Refugee Camp - Storage chest 1",
+                        "ref": "Refugee Camp/Storage chest 1"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "1951",
+                        "y": "2122",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Royal Towers",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Journal - Aelana's Room (Diplomatic Missive)",
+                        "ref": "Royal Towers/Journal/Aelana's Room (Diplomatic Missive)"
+                    },
+                    {
+                        "name": "Journal - Top Struggle Juggle Base (War of the Sisters)",
+                        "ref": "Royal Towers/Journal/Top Struggle Juggle Base (War of the Sisters)"
+                    },
+                    {
+                        "name": "Journal - Aelana Boss (Stained Letter)",
+                        "ref": "Royal Towers/Journal/Aelana Boss (Stained Letter)"
+                    },
+                    {
+                        "name": "Journal - Near Bottom Struggle Juggle (Mission Findings)",
+                        "ref": "Royal Towers/Journal/Near Bottom Struggle Juggle (Mission Findings)"
+                    },
+                    {
+                        "name": "Royal Towers - Floor secret",
+                        "ref": "Royal Towers/Floor secret"
+                    },
+                    {
+                        "name": "Royal Towers - Pre-climb gap",
+                        "ref": "Royal Towers/Pre-climb gap"
+                    },
+                    {
+                        "name": "Royal Towers - Long balcony",
+                        "ref": "Royal Towers/Long balcony"
+                    },
+                    {
+                        "name": "Royal Towers - Past bottom struggle juggle",
+                        "ref": "Royal Towers/Past bottom struggle juggle"
+                    },
+                    {
+                        "name": "Royal Towers - Bottom struggle juggle",
+                        "ref": "Royal Towers/Bottom struggle juggle"
+                    },
+                    {
+                        "name": "Royal Towers - Top struggle juggle",
+                        "ref": "Royal Towers/Top struggle juggle"
+                    },
+                    {
+                        "name": "Royal Towers - No struggle required",
+                        "ref": "Royal Towers/No struggle required"
+                    },
+                    {
+                        "name": "Royal Towers - Right tower freebie",
+                        "ref": "Royal Towers/Right tower freebie"
+                    },
+                    {
+                        "name": "Royal Towers - Left tower small balcony",
+                        "ref": "Royal Towers/Left tower small balcony"
+                    },
+                    {
+                        "name": "Royal Towers - Left tower royal guard",
+                        "ref": "Royal Towers/Left tower royal guard"
+                    },
+                    {
+                        "name": "Royal Towers - Before Aelana",
+                        "ref": "Royal Towers/Before Aelana"
+                    },
+                    {
+                        "name": "Royal Towers - Aelana's attic",
+                        "ref": "Royal Towers/Aelana's attic"
+                    },
+                    {
+                        "name": "Royal Towers - Aelana's chest",
+                        "ref": "Royal Towers/Aelana's chest"
+                    },
+                    {
+                        "name": "Royal Towers - Aelana's pedestal",
+                        "ref": "Royal Towers/Aelana's pedestal"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "2251",
+                        "y": "1048",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Sealed Caves (Sirens)",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Sealed Caves (Sirens) - Water hook",
+                        "ref": "Sealed Caves (Sirens)/Water hook"
+                    },
+                    {
+                        "name": "Sealed Caves (Sirens) - Siren room underwater right",
+                        "ref": "Sealed Caves (Sirens)/Siren room underwater right"
+                    },
+                    {
+                        "name": "Sealed Caves (Sirens) - Siren room underwater left",
+                        "ref": "Sealed Caves (Sirens)/Siren room underwater left"
+                    },
+                    {
+                        "name": "Sealed Caves (Sirens) - Cave after sirens chest 1",
+                        "ref": "Sealed Caves (Sirens)/Cave after sirens chest 1"
+                    },
+                    {
+                        "name": "Sealed Caves (Sirens) - Cave after sirens chest 2",
+                        "ref": "Sealed Caves (Sirens)/Cave after sirens chest 2"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "179",
+                        "y": "245",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Sealed Caves (Xarion)",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Sealed Caves (Xarion) - Skeleton",
+                        "ref": "Sealed Caves (Xarion)/Skeleton"
+                    },
+                    {
+                        "name": "Sealed Caves (Xarion) - Shroom jump room",
+                        "ref": "Sealed Caves (Xarion)/Shroom jump room"
+                    },
+                    {
+                        "name": "Sealed Caves (Xarion) - Double shroom room",
+                        "ref": "Sealed Caves (Xarion)/Double shroom room"
+                    },
+                    {
+                        "name": "Sealed Caves (Xarion) - Mini jackpot room",
+                        "ref": "Sealed Caves (Xarion)/Mini jackpot room"
+                    },
+                    {
+                        "name": "Sealed Caves (Xarion) - Below mini jackpot room",
+                        "ref": "Sealed Caves (Xarion)/Below mini jackpot room"
+                    },
+                    {
+                        "name": "Sealed Caves (Xarion) - Secret room",
+                        "ref": "Sealed Caves (Xarion)/Secret room"
+                    },
+                    {
+                        "name": "Sealed Caves (Xarion) - Bottom left room",
+                        "ref": "Sealed Caves (Xarion)/Bottom left room"
+                    },
+                    {
+                        "name": "Sealed Caves (Xarion) - Last chance before Xarion",
+                        "ref": "Sealed Caves (Xarion)/Last chance before Xarion"
+                    },
+                    {
+                        "name": "Sealed Caves (Xarion) - Xarion",
+                        "ref": "Sealed Caves (Xarion)/Xarion"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "1011",
+                        "y": "1895",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Temporal Gyre",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Temporal Gyre - Chest 1",
+                        "ref": "Temporal Gyre/Chest 1"
+                    },
+                    {
+                        "name": "Temporal Gyre - Chest 2",
+                        "ref": "Temporal Gyre/Chest 2"
+                    },
+                    {
+                        "name": "Temporal Gyre - Chest 3",
+                        "ref": "Temporal Gyre/Chest 3"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "2152",
+                        "y": "2190",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Tutorial",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Tutorial - Yo Momma 1",
+                        "ref": "Tutorial/Yo Momma 1"
+                    },
+                    {
+                        "name": "Tutorial - Yo Momma 2",
+                        "ref": "Tutorial/Yo Momma 2"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "1068",
+                        "y": "1060",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Varndagroth Towers",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Memory - Siren Elevator (Childhood)",
+                        "ref": "Varndagroth Towers/Memory/Siren Elevator (Childhood)"
+                    },
+                    {
+                        "name": "Varndagroth Towers - Bridge",
+                        "ref": "Varndagroth Towers/Bridge"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "40",
+                        "y": "585",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Varndagroth Towers (Left)",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Memory - Elevator (Nomads)",
+                        "ref": "Varndagroth Towers (Left)/Memory/Elevator (Nomads)"
+                    },
+                    {
+                        "name": "Varndagroth Towers (Left) - Elevator Key not required",
+                        "ref": "Varndagroth Towers (Left)/Elevator Key not required"
+                    },
+                    {
+                        "name": "Varndagroth Towers (Left) - Ye olde Timespinner",
+                        "ref": "Varndagroth Towers (Left)/Ye olde Timespinner"
+                    },
+                    {
+                        "name": "Varndagroth Towers (Left) - Bottom floor",
+                        "ref": "Varndagroth Towers (Left)/Bottom floor"
+                    },
+                    {
+                        "name": "Varndagroth Towers (Left) - Air vents secret",
+                        "ref": "Varndagroth Towers (Left)/Air vents secret"
+                    },
+                    {
+                        "name": "Varndagroth Towers (Left) - Elevator chest",
+                        "ref": "Varndagroth Towers (Left)/Elevator chest"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "2023",
+                        "y": "1791",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Varndagroth Towers (Right)",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Memory - Bottom (Faron)",
+                        "ref": "Varndagroth Towers (Right)/Memory/Bottom (Faron)"
+                    },
+                    {
+                        "name": "Varndagroth Towers (Right) - Elevator chest",
+                        "ref": "Varndagroth Towers (Right)/Elevator chest"
+                    },
+                    {
+                        "name": "Varndagroth Towers (Right) - Elevator card chest",
+                        "ref": "Varndagroth Towers (Right)/Elevator card chest"
+                    },
+                    {
+                        "name": "Varndagroth Towers (Right) - Air vents right chest",
+                        "ref": "Varndagroth Towers (Right)/Air vents right chest"
+                    },
+                    {
+                        "name": "Varndagroth Towers (Right) - Air vents left chest",
+                        "ref": "Varndagroth Towers (Right)/Air vents left chest"
+                    },
+                    {
+                        "name": "Varndagroth Towers (Right) - Bottom floor",
+                        "ref": "Varndagroth Towers (Right)/Bottom floor"
+                    },
+                    {
+                        "name": "Varndagroth Towers (Right) - Varndagroth",
+                        "ref": "Varndagroth Towers (Right)/Varndagroth"
+                    },
+                    {
+                        "name": "Varndagroth Towers (Right) - Spider Hell",
+                        "ref": "Varndagroth Towers (Right)/Spider Hell"
+                    },
+                    {
+                        "name": "Varndagroth Towers (Right) - Medbay terminal (Bleakness Research)",
+                        "ref": "Varndagroth Towers (Right)/Medbay terminal (Bleakness Research)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "1463",
+                        "y": "1366",
+                        "size": 6
+                    }
+                ]
+            }
+        ]
+    }
+]
