@@ -15,9 +15,27 @@
     },
     {
         "name": "Umbra Orb",
-        "type": "toggle",
+        "type": "progressive_toggle",
         "img": "images/items/umbraorb.png",
-        "img_mods": "",
+        "stages": [
+            {
+                "name": "Umbra Orb",
+                "img": "images/items/umbraorb.png",
+                "codes": "umbraorb"
+            },
+            {
+                "name": "Umbra Orb +",
+                "img": "images/items/umbraorb.png",
+                "img_mods": "overlay|/images/items/PLUS.png",
+                "codes": "umbraorbP"
+            },
+            {
+                "name": "Umbra Orb -",
+                "img": "images/items/umbraorb.png",
+                "img_mods": "overlay|/images/items/MINUS.png",
+                "codes": "umbraorbM"
+            }
+        ],
         "codes": "umbraorb"
     },
     {
@@ -120,9 +138,27 @@
     },
     {
         "name": "Iron Orb",
-        "type": "toggle",
+        "type": "progressive_toggle",
         "img": "images/items/ironorb.png",
-        "img_mods": "",
+        "stages": [
+            {
+                "name": "Iron Orb",
+                "img": "images/items/ironorb.png",
+                "codes": "ironorb"
+            },
+            {
+                "name": "Iron Orb +",
+                "img": "images/items/ironorb.png",
+                "img_mods": "overlay|/images/items/PLUS.png",
+                "codes": "ironorbP"
+            },
+            {
+                "name": "Iron Orb -",
+                "img": "images/items/ironorb.png",
+                "img_mods": "overlay|/images/items/MINUS.png",
+                "codes": "ironorbM"
+            }
+        ],
         "codes": "ironorb"
     },
     {
@@ -155,9 +191,27 @@
     },
     {
         "name": "Blade Orb",
-        "type": "toggle",
+        "type": "progressive_toggle",
         "img": "images/items/bladeorb.png",
-        "img_mods": "",
+        "stages": [
+			{
+                "name": "Blade Orb",
+                "img": "images/items/bladeorb.png",
+                "codes": "bladeorb"
+            },
+            {
+                "name": "Blade Orb +",
+                "img": "images/items/bladeorb.png",
+                "img_mods": "overlay|/images/items/PLUS.png",
+                "codes": "bladeorbP"
+            },
+            {
+                "name": "Blade Orb -",
+                "img": "images/items/bladeorb.png",
+                "img_mods": "overlay|/images/items/MINUS.png",
+                "codes": "bladeorbM"
+            }
+        ],
         "codes": "bladeorb"
     },
     {
@@ -183,16 +237,52 @@
     },
     {
         "name": "Fire Orb",
-        "type": "toggle",
+        "type": "progressive_toggle",
         "img": "images/items/fireorb.png",
-        "img_mods": "",
+        "stages": [
+			{
+                "name": "Fire Orb",
+                "img": "images/items/fireorb.png",
+                "codes": "fireorb"
+            },
+            {
+                "name": "Fire Orb +",
+                "img": "images/items/fireorb.png",
+                "img_mods": "overlay|/images/items/PLUS.png",
+                "codes": "fireorbP"
+            },
+            {
+                "name": "Fire Orb -",
+                "img": "images/items/fireorb.png",
+                "img_mods": "overlay|/images/items/MINUS.png",
+                "codes": "fireorbM"
+            }
+        ],
         "codes": "fireorb"
     },
     {
         "name": "Ice Orb",
-        "type": "toggle",
+        "type": "progressive_toggle",
         "img": "images/items/iceorb.png",
-        "img_mods": "",
+        "stages": [
+			{
+                "name": "Ice Orb",
+                "img": "images/items/iceorb.png",
+                "codes": "iceorb"
+            },
+            {
+                "name": "Ice Orb +",
+                "img": "images/items/iceorb.png",
+                "img_mods": "overlay|/images/items/PLUS.png",
+                "codes": "iceorbP"
+            },
+            {
+                "name": "Ice Orb -",
+                "img": "images/items/iceorb.png",
+                "img_mods": "overlay|/images/items/MINUS.png",
+                "codes": "iceorbM"
+            }
+        ],
         "codes": "iceorb"
     },
     {
@@ -204,9 +294,27 @@
     },
     {
         "name": "Blue Orb",
-        "type": "toggle",
+        "type": "progressive_toggle",
         "img": "images/items/blueorb.png",
-        "img_mods": "",
+        "stages": [
+			{
+                "name": "Blue Orb",
+                "img": "images/items/blueorb.png",
+                "codes": "blueorb"
+            },
+            {
+                "name": "Blue Orb +",
+                "img": "images/items/blueorb.png",
+                "img_mods": "overlay|/images/items/PLUS.png",
+                "codes": "blueorbP"
+            },
+            {
+                "name": "Blue Orb -",
+                "img": "images/items/blueorb.png",
+                "img_mods": "overlay|/images/items/MINUS.png",
+                "codes": "blueorbM"
+            }
+        ],
         "codes": "blueorb"
     },
     {
@@ -218,9 +326,27 @@
     },
     {
         "name": "Blood Orb",
-        "type": "toggle",
+        "type": "progressive_toggle",
         "img": "images/items/bloodorb.png",
-        "img_mods": "",
+        "stages": [
+			{
+                "name": "Blood Orb",
+                "img": "images/items/bloodorb.png",
+                "codes": "bloodorb"
+            },
+            {
+                "name": "Blood Orb +",
+                "img": "images/items/bloodorb.png",
+                "img_mods": "overlay|/images/items/PLUS.png",
+                "codes": "bloodorbP"
+            },
+            {
+                "name": "Blood Orb -",
+                "img": "images/items/bloodorb.png",
+                "img_mods": "overlay|/images/items/MINUS.png",
+                "codes": "bloodorbM"
+            }
+        ],
         "codes": "bloodorb"
     },
     {
@@ -267,9 +393,27 @@
     },
     {
         "name": "Wind Orb",
-        "type": "toggle",
+        "type": "progressive_toggle",
         "img": "images/items/windorb.png",
-        "img_mods": "",
+        "stages": [
+			{
+                "name": "Wind Orb",
+                "img": "images/items/windorb.png",
+                "codes": "windorb"
+            },
+            {
+                "name": "Wind Orb +",
+                "img": "images/items/windorb.png",
+                "img_mods": "overlay|/images/items/PLUS.png",
+                "codes": "windorbP"
+            },
+            {
+                "name": "Wind Orb -",
+                "img": "images/items/windorb.png",
+                "img_mods": "overlay|/images/items/MINUS.png",
+                "codes": "windorbM"
+            }
+        ],
         "codes": "windorb"
     },
     {
@@ -372,9 +516,27 @@
     },
     {
         "name": "Nether Orb",
-        "type": "toggle",
+        "type": "progressive_toggle",
         "img": "images/items/netherorb.png",
-        "img_mods": "",
+        "stages": [
+			{
+                "name": "Nether Orb",
+                "img": "images/items/netherorb.png",
+                "codes": "netherorb"
+            },
+            {
+                "name": "Nether Orb +",
+                "img": "images/items/netherorb.png",
+                "img_mods": "overlay|/images/items/PLUS.png",
+                "codes": "netherorbP"
+            },
+            {
+                "name": "Nether Orb -",
+                "img": "images/items/netherorb.png",
+                "img_mods": "overlay|/images/items/MINUS.png",
+                "codes": "netherorbM"
+            }
+        ],
         "codes": "netherorb"
     },
     {
@@ -393,9 +555,27 @@
     },
     {
         "name": "Eye Orb",
-        "type": "toggle",
+        "type": "progressive_toggle",
         "img": "images/items/eyeorb.png",
-        "img_mods": "",
+        "stages": [
+			{
+                "name": "Eye Orb",
+                "img": "images/items/eyeorb.png",
+                "codes": "eyeorb"
+            },
+            {
+                "name": "Eye Orb +",
+                "img": "images/items/eyeorb.png",
+                "img_mods": "overlay|/images/items/PLUS.png",
+                "codes": "eyeorbP"
+            },
+            {
+                "name": "Eye Orb -",
+                "img": "images/items/eyeorb.png",
+                "img_mods": "overlay|/images/items/MINUS.png",
+                "codes": "eyeorbM"
+            }
+        ],
         "codes": "eyeorb"
     },
     {
@@ -407,9 +587,27 @@
     },
     {
         "name": "Radiant Orb",
-        "type": "toggle",
+        "type": "progressive_toggle",
         "img": "images/items/radiantorb.png",
-        "img_mods": "",
+        "stages": [
+			{
+                "name": "Radiant Orb",
+                "img": "images/items/radiantorb.png",
+                "codes": "radiantorb"
+            },
+            {
+                "name": "Radiant Orb +",
+                "img": "images/items/radiantorb.png",
+                "img_mods": "overlay|/images/items/PLUS.png",
+                "codes": "radiantorbP"
+            },
+            {
+                "name": "Radiant Orb -",
+                "img": "images/items/radiantorb.png",
+                "img_mods": "overlay|/images/items/MINUS.png",
+                "codes": "radiantorbM"
+            }
+        ],
         "codes": "radiantorb"
     },
     {
@@ -435,9 +633,27 @@
     },
     {
         "name": "Empire Orb",
-        "type": "toggle",
+        "type": "progressive_toggle",
         "img": "images/items/empireorb.png",
-        "img_mods": "",
+        "stages": [
+			{
+                "name": "Empire Orb",
+                "img": "images/items/empireorb.png",
+                "codes": "empireorb"
+            },
+            {
+                "name": "Empire Orb +",
+                "img": "images/items/empireorb.png",
+                "img_mods": "overlay|/images/items/PLUS.png",
+                "codes": "empireorbP"
+            },
+            {
+                "name": "Empire Orb -",
+                "img": "images/items/empireorb.png",
+                "img_mods": "overlay|/images/items/MINUS.png",
+                "codes": "empireorbM"
+            }
+        ],
         "codes": "empireorb"
     },
     {
@@ -456,9 +672,27 @@
     },
     {
         "name": "Plasma Orb",
-        "type": "toggle",
+        "type": "progressive_toggle",
         "img": "images/items/plasmaorb.png",
-        "img_mods": "",
+        "stages": [
+			{
+                "name": "Plasma Orb",
+                "img": "images/items/plasmaorb.png",
+                "codes": "plasmaorb"
+            },
+            {
+                "name": "Plasma Orb +",
+                "img": "images/items/plasmaorb.png",
+                "img_mods": "overlay|/images/items/PLUS.png",
+                "codes": "plasmaorbP"
+            },
+            {
+                "name": "Plasma Orb -",
+                "img": "images/items/plasmaorb.png",
+                "img_mods": "overlay|/images/items/MINUS.png",
+                "codes": "plasmaorbM"
+            }
+        ],
         "codes": "plasmaorb"
     },
     {
@@ -519,9 +753,27 @@
     },
     {
         "name": "Gun Orb",
-        "type": "toggle",
+        "type": "progressive_toggle",
         "img": "images/items/gunorb.png",
-        "img_mods": "",
+        "stages": [
+			{
+                "name": "Gun Orb",
+                "img": "images/items/gunorb.png",
+                "codes": "gunorb"
+            },
+            {
+                "name": "Gun Orb +",
+                "img": "images/items/gunorb.png",
+                "img_mods": "overlay|/images/items/PLUS.png",
+                "codes": "gunorbP"
+            },
+            {
+                "name": "Gun Orb -",
+                "img": "images/items/gunorb.png",
+                "img_mods": "overlay|/images/items/MINUS.png",
+                "codes": "gunorbM"
+            }
+        ],
         "codes": "gunorb"
     },
     {
@@ -547,16 +799,52 @@
     },
     {
         "name": "Shattered Orb",
-        "type": "toggle",
+        "type": "progressive_toggle",
         "img": "images/items/shatteredorb.png",
-        "img_mods": "",
+        "stages": [
+			{
+                "name": "Shattered Orb",
+                "img": "images/items/shatteredorb.png",
+                "codes": "shatteredorb"
+            },
+            {
+                "name": "Shattered Orb +",
+                "img": "images/items/shatteredorb.png",
+                "img_mods": "overlay|/images/items/PLUS.png",
+                "codes": "shatteredorbP"
+            },
+            {
+                "name": "Shattered Orb -",
+                "img": "images/items/shatteredorb.png",
+                "img_mods": "overlay|/images/items/MINUS.png",
+                "codes": "shatteredorbM"
+            }
+        ],
         "codes": "shatteredorb"
     },
     {
         "name": "Forbidden Tome",
-        "type": "toggle",
+        "type": "progressive_toggle",
         "img": "images/items/forbiddentome.png",
-        "img_mods": "",
+        "stages": [
+			{
+                "name": "Forbidden Tome",
+                "img": "images/items/forbiddentome.png",
+                "codes": "forbiddentome"
+            },
+            {
+                "name": "Forbidden Tome +",
+                "img": "images/items/forbiddentome.png",
+                "img_mods": "overlay|/images/items/PLUS.png",
+                "codes": "forbiddentomeP"
+            },
+            {
+                "name": "Forbidden Tome -",
+                "img": "images/items/forbiddentome.png",
+                "img_mods": "overlay|/images/items/MINUS.png",
+                "codes": "forbiddentomeM"
+            }
+        ],
         "codes": "forbiddentome"
     },
     {
